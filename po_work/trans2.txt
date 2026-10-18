@@ -1,0 +1,201 @@
+Create your account now and receive <b>%s</b> ads as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> объявлений в качестве приветственного подарка
+Purchase this package to top up your account with <b>%s</b> ads	Купите этот пакет, чтобы пополнить учётную запись на <b>%s</b> объявлений
+hour	час
+hours	часа
+day	день
+days	дня
+Create your account and get <b>%s</b> %s subscription as a welcome gift	Создайте учётную запись и получите подписку на <b>%s</b> %s в качестве приветственного подарка
+Purchase this package and extend your subscription by <b>%s</b> days	Купите этот пакет и продлите свою подписку на <b>%s</b> дней
+Create your account now and get <b>%s</b> %s to submit <b>%s</b> ads as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> %s для подачи <b>%s</b> объявлений в качестве приветственного подарка
+Purchase this package and top up your account with <b>%s</b> days to submit <b>%s</b> ads	Купите этот пакет и пополните учётную запись на <b>%s</b> дней для подачи <b>%s</b> объявлений
+Go to your %s and populate mandatory fields in order to purchase	Перейдите в свой %s и заполните обязательные поля, чтобы совершить покупку
+profile	профиль
+Purchase Now	Купить сейчас
+You do not have any credits left, please purchase a package	У вас не осталось размещений, пожалуйста, купите пакет
+Your subscription has expired, please renew it	Срок вашей подписки истёк, пожалуйста, продлите её
+Your subscription has expired or you have run out of adverts.	Срок вашей подписки истёк или у вас закончились размещения объявлений.
+Populate mandatory fields in your profile prior to posting	Перед размещением заполните обязательные поля в профиле
+Go to profile	Перейти в профиль
+Load More	Загрузить ещё
+Mark As Sold	Отметить как проданное
+Title *	Заголовок *
+Precise title is always better	Точный заголовок всегда лучше
+Sell (Expires in %s days)	Продажа (истечёт через %s дн.)
+Auction (Expires in %s days)	Аукцион (истечёт через %s дн.)
+Buy (Expires in %s days)	Покупка (истечёт через %s дн.)
+Exchange (Expires in %s days)	Обмен (истечёт через %s дн.)
+Gift (Expires in %s days)	Подарок (истечёт через %s дн.)
+Rent (Expires in %s days)	Аренда (истечёт через %s дн.)
+Job - Offer (Expires in %s days)	Работа - Предложение (истечёт через %s дн.)
+Job - Wanted (Expires in %s days)	Работа - Требуются (истечёт через %s дн.)
+Is negotiable?	Торг уместен?
+Start Price *	Начальная цена *
+Max Price	Макс. цена
+Rent Price	Цена аренды
+Rent Period *	Срок аренды *
+Salary	Зарплата
+Max Salary	Макс. зарплата
+Images *	Изображения *
+Drag & Drop files here	Перетащите файлы сюда
+or	или
+Browse Files	Выбрать файлы
+ Max number of images is %s.	 Максимальное количество изображений — %s.
+ Max image size is %sMB.	 Максимальный размер изображения — %s МБ.
+ (%s max)	 (не более %s)
+Link to YouTube or Vimeo video	Ссылка на видео с YouTube или Vimeo
++ Add Video	+ Добавить видео
+Description (min %s chars) *	Описание (мин. %s символов) *
+Description *	Описание *
+Ad Category	Категория объявления
+Category *	Категория *
+Ad Location & Contact	Местоположение и контакты
+Ad Contact	Контакты объявления
+Use address set in profile section	Использовать адрес из профиля
+Precise Location *	Точное местоположение *
+Also populated on place select	Также заполняется при выборе места
+Use contact set in profile section	Использовать контакты из профиля
+Protected from spam	Защищено от спама
+Uploading images...	Загрузка изображений...
+Renew Ad	Продлить объявление
+Save Ad	Сохранить объявление
+Remove this image	Удалить это изображение
+Set this image as featured	Сделать это изображение главным
+You are not logged in or you do not have ads remaining for submit	Вы не вошли в систему или у вас не осталось размещений для подачи объявления
+Ad is marked as sold and changes will not be applied	Объявление отмечено как проданное, изменения не будут применены
+Some of your fields contain bad word(s)	Некоторые ваши поля содержат запрещённые слова
+Title is empty	Заголовок пуст
+Maximum length of title can be %s chars	Максимальная длина заголовка — %s символов
+Description is empty	Описание пусто
+Upload at least one image	Загрузите хотя бы одно изображение
+Minimum length of description must be %s chars	Минимальная длина описания — %s символов
+Location is not set	Местоположение не указано
+Phone is empty	Телефон не указан
+Category is not selected	Категория не выбрана
+Location from dropdown is not selected	Местоположение не выбрано из выпадающего списка
+Start price is required	Начальная цена обязательна
+Start price format is invalid	Недопустимый формат начальной цены
+Price format is invalid	Недопустимый формат цены
+Sale price format is invalid	Недопустимый формат цены со скидкой
+Sale price can not be greather or equal to regular price	Цена со скидкой не может быть больше или равна обычной цене
+Full YouTube link format must be https://www.youtube.com/watch?v=XXXXXXXXXXX	Полная ссылка YouTube должна иметь формат https://www.youtube.com/watch?v=XXXXXXXXXXX
+Short YouTube link format must be https://www.youtu.be/XXXXXXXXXXX	Короткая ссылка YouTube должна иметь формат https://www.youtu.be/XXXXXXXXXXX
+Vimeo video format must be https://vimeo.com/XXXXXXXX	Ссылка на видео Vimeo должна иметь формат https://vimeo.com/XXXXXXXX
+Supported video links are from vimeo and youtube only	Поддерживаются только ссылки на видео с Vimeo и YouTube
+is required	обязательно
+New Ad Update Was Submitted	Подано обновление объявления
+There is a new ad update waiting for your review	Новое обновление объявления ожидает вашего рассмотрения
+New Ad Was Submitted	Подано новое объявление
+There is a new ad waiting for your review	Новое объявление ожидает вашего рассмотрения
+Action Required	Требуется действие
+Ad is submitted for the review. Redirecting to your ads...	Объявление отправлено на рассмотрение. Перенаправление на ваши объявления...
+Ad is submitted for the review. You can add another one by clicking on Submit Ad.	Объявление отправлено на рассмотрение. Вы можете подать ещё одно, нажав «Подать объявление».
+Ad is saved. Redirecting to your ads...	Объявление сохранено. Перенаправление на ваши объявления...
+Ad is saved. You can add another one by clicking on Submit Ad.	Объявление сохранено. Вы можете добавить ещё одно, нажав «Подать объявление».
+You must agree on terms & conditions.	Вы должны согласиться с условиями использования.
+Failed to delete ad, try again	Не удалось удалить объявление, попробуйте снова
+No ad with provided ID	Объявление с указанным ID не найдено
+(Active until: %s)	(Активно до: %s)
+For	На
+One time	Однократно
+(Promotion has been used for this ad)	(Продвижение уже использовано для этого объявления)
+(First available spot is on: %s)	(Первое доступное место: %s)
+[Ad Reported] -	[Жалоба на объявление] -
+Ad is reported	На объявление подана жалоба
+Required fields are empty	Обязательные поля не заполнены
+Type	Тип
+Buying	Покупка
+Ad Update Approved	Обновление объявления одобрено
+Congratulations, your submitted ad update %s is approved	Поздравляем, поданное вами обновление объявления %s одобрено
+Ad Approved	Объявление одобрено
+Congratulations, your submitted ad %s is approved	Поздравляем, поданное вами объявление %s одобрено
+Ad Update Declined	Обновление объявления отклонено
+Unfortunately, your submitted ad update <b>%s</b> is declined since it does not meet our terms & conditions	К сожалению, поданное вами обновление объявления <b>%s</b> отклонено, так как оно не соответствует нашим условиям использования
+Ad Declined	Объявление отклонено
+Unfortunately, your submitted ad <b>%s</b> is declined since it does not meet our terms & conditions	К сожалению, поданное вами объявление <b>%s</b> отклонено, так как оно не соответствует нашим условиям использования
+Advert Expired - Renew	Объявление истекает — продление
+Year	Год
+Half Year	Полгода
+Quarterly	Квартал
+Month	Месяц
+Week	Неделя
+Day	День
+Hour	Час
+Go to your %s and populate mandatory fields in order to purchase promotions	Перейдите в свой %s и заполните обязательные поля, чтобы купить продвижение
+Auctions	Аукционы
+Your Favorite Ads	Ваши избранные объявления
+Your Posted Ads	Ваши объявления
+Live	Активно
+Sold	Продано
+Update	Обновить
+Filter ads...	Фильтр объявлений...
+Sort By Expire	По сроку истечения
+Sort By Date	По дате
+Sort By Price	По цене
+Sort By Title	По заголовку
+Descending	По убыванию
+Ascending	По возрастанию
+All Types	Все типы
+Title	Заголовок
+Status	Статус
+Action	Действие
+View Ad	Просмотр объявления
+Edit Ad	Изменить объявление
+Are you sure?	Вы уверены?
+Delete Ad	Удалить объявление
+Promote Ad	Продвинуть объявление
+Promote	Продвинуть
+Remove From Favorites	Убрать из избранного
+Unfavorite	В избранное
+Offer your product/service by submitting your first advert	Предложите свой товар/услугу, подав первое объявление
+No ads found matched your criteria	По вашим критериям объявления не найдены
+Currently you do not participate in any auction.	Сейчас вы не участвуете ни в одном аукционе.
+Currently you do not have any favorite ads, add some.	Сейчас у вас нет избранных объявлений, добавьте их.
+Auction Bid - You've Been Outbid	Ставка на аукционе — вашу ставку перебили
+Bid is placed	Ставка размещена
+Could not place the bid	Не удалось разместить ставку
+Bid must be at least %s	Ставка должна быть не менее %s
+Auction has ended	Аукцион завершён
+Min bid: %s	Мин. ставка: %s
+Bid format is invalid	Недопустимый формат ставки
+Input bid value	Введите значение ставки
+Input new bid value	Введите новое значение ставки
+Are you sure you want to remove this bid?	Вы уверены, что хотите удалить эту ставку?
+Could not save the new value, try again	Не удалось сохранить новое значение, попробуйте снова
+Could not delete the bid, try again	Не удалось удалить ставку, попробуйте снова
+Auction Ended - Contact Buyer	Аукцион завершён — свяжитесь с покупателем
+Auction Ended - Congratulation	Аукцион завершён — поздравляем
+Auction Ended - Failed	Аукцион завершён — без результата
+Sidebar	Сайдбар
+Menu	Меню
+New Comment Waiting	Новый комментарий ожидает
+Wrong author	Неверный автор
+Comment is empty	Комментарий пуст
+Reply From %s	Ответ от %s
+Your reply	Ваш ответ
+Could not save the comment, try again	Не удалось сохранить комментарий, попробуйте снова
+Mark as read	Отметить как прочитанное
+Reply	Ответить
+Cancel reply	Отменить ответ
+Ads Remaining	Осталось размещений
+Subscription Expires	Подписка истекает
+Subscription Expired	Подписка истекла
+Free Submission	Бесплатная подача
+Account submission type	Тип подачи объявлений для аккаунта
+Submitted Ads	Поданные объявления
+Number of submitted ads	Количество поданных объявлений
+Your Rating	Ваш рейтинг
+Based on all your ads	На основе всех ваших объявлений
+Favorite Ads	Избранные объявления
+Number of ads you like	Количество понравившихся объявлений
+Unread Comments	Непрочитанные комментарии
+Visits Chart	График посещений
+Select an ad to show data	Выберите объявление, чтобы показать данные
+No data to show for this ad yet	Для этого объявления пока нет данных
+Your Invoices	Ваши счета
+Invoice	Счёт
+View Invoice	Просмотр счёта
+Waiting for payment	Ожидает оплаты
+You have not made any orders yet	Вы ещё не совершали заказов
+No conversations	Нет переписок
+Message sent	Сообщение отправлено
+Message sending failed	Не удалось отправить сообщение

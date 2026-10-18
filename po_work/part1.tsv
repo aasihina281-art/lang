@@ -1,0 +1,111 @@
+Ad DetailsДетали объявления
+Adifier recommends that you install WP All Import In order to use import functionalityAdifier рекомендует установить WP All Import, чтобы использовать функцию импорта
+Adifier - missing ad type, skipping this adifier-ru_RU.po Adifier — отсутствует тип объявления, пропуск этого объявления
+Ad TypeТип объявления
+Sell (For mapping value 1)Продажа (для значения сопоставления 1)
+Auction (For mapping value 2)Аукцион (для значения сопоставления 2)
+Buy (For mapping value 3)Покупка (для значения сопоставления 3)
+Exchange (For mapping value 4)Обмен (для значения сопоставления 4)
+Gift (For mapping value 5)Подарок (для значения сопоставления 5)
+Rent (For mapping value 6)Аренда (для значения сопоставления 6)
+Job - Offer (For mapping value 7)Работа - Предложение (для значения сопоставления 7)
+Job - Wanted (For mapping value 8)Работа - Требуются (для значения сопоставления 8)
+Ad CurrencyВалюта объявления
+VideosВидео
+For multiple values in multiple tags divide with pipe "|" otherwise use delimiterДля нескольких значений в нескольких тегах используйте разделитель «|», иначе используйте разделитель
+Videos DelimiterРазделитель видео
+If your file contains single videos tag input delimiter char.Если ваш файл содержит один тег с видео, укажите символ-разделитель.
+PriceЦена
+Sale PriceЦена со скидкой
+Start PriceНачальная цена
+If the type is AuctionЕсли тип — Аукцион
+Reserved PriceРезервная цена
+NoneНет
+Rent PeriodСрок аренды
+ExpireИстекает
+If this is empty system will apply values from theme settingsЕсли оставить пустым, система применит значения из настроек темы
+ViewsПросмотры
+Is SoldПродано
+No (For mapping value 0)Нет (для значения сопоставления 0)
+Yes (For mapping value 1)Да (для значения сопоставления 1)
+Is NegotiableТорг
+ConditionСостояние
+New (For mapping value 1)Новое (для значения сопоставления 1)
+Manufacturer Refurbished (For mapping value 2)Восстановленное производителем (для значения сопоставления 2)
+Used (For mapping value 3)Б/у (для значения сопоставления 3)
+For Parts Or Not Working (For mapping value 4)На запчасти или не работает (для значения сопоставления 4)
+Gmap Latitude LocationМестоположение: широта (Gmap)
+Gmap Longitude LocationМестоположение: долгота (Gmap)
+Gmap CountryСтрана (Gmap)
+Gmap StateОбласть (Gmap)
+Gmap CityГород (Gmap)
+Gmap StreetУлица (Gmap)
+PhoneТелефон
+Ad ImagesИзображения объявления
+Subscribe To NewsletterПодписаться на рассылку
+and receive new ads in inboxи получайте новые объявления на почту
+Input your email addressВведите свой адрес эл. почты
+SubscribeПодписаться
+Share ThisПоделиться
+CloseЗакрыть
+Report AdПожаловаться
+Reason *Причина *
+Write as much details as you canОпишите проблему как можно подробнее
+ReportОтправить жалобу
+Contact Ad OwnerНаписать владельцу
+Message *Сообщение *
+Write your message to the ad ownerНапишите сообщение владельцу объявления
+SendОтправить
+Contact BuyerНаписать покупателю
+Write your message to the buyerНапишите сообщение покупателю
+Write ReviewНаписать отзыв
+Review *Отзыв *
+Very BadОчень плохо
+BadПлохо
+GoodХорошо
+Very GoodОчень хорошо
+ExcellentОтлично
+Your Review *Ваш отзыв *
+Write about your experience with the ad owner and product/service (This can not be changed)Расскажите о своём опыте общения с владельцем объявления и о товаре/услуге (это нельзя изменить)
+Purchase Promotions For Your AdКупить продвижение для объявления
+No promotions selectedПродвижение не выбрано
+PurchaseКупить
+Select Payment - amount:Выбор способа оплаты — сумма:
+LoginВход
+Username / Email *Имя пользователя / Эл. почта *
+Password *Пароль *
+View PasswordПоказать пароль
+Forgotten your password?Забыли пароль?
+ORИЛИ
+Don't have an account? Create one here.Нет учётной записи? Создайте её здесь.
+RegisterРегистрация
+Username *Имя пользователя *
+Your desired usernameЖелаемое имя пользователя
+Email *Эл. почта *
+It will be verifiedОна будет проверена
+Use a strong passwordИспользуйте надёжный пароль
+Repeat Password *Повторите пароль *
+To make sure that it is correctЧтобы убедиться в правильности
+Resend verification?Отправить письмо подтверждения повторно?
+Already have an account? Login here.Уже есть учётная запись? Войдите здесь.
+Recover PasswordВосстановление пароля
+Set PasswordЗадать пароль
+Your registered emailВаша зарегистрированная эл. почта
+RecoverВосстановить
+Resend VerificationПовторная отправка подтверждения
+ResendОтправить повторно
+Quick SearchБыстрый поиск
+Find ad (min. 4 chars)Найти объявление (мин. 4 символа)
+Search for...Искать...
+CompareСравнить
+I'm interested in...Меня интересует...
+KeywordКлючевое слово
+CategoryКатегория
+AdsОбъявления
+AdОбъявление
+OrdersЗаказы
+OrderЗаказ
+CategoriesКатегории
+LocationsМестоположения
+LocationМестоположение
+All \tВсе

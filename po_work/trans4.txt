@@ -1,0 +1,263 @@
+Sign In With	Войти через
+Could not retrieve user data	Не удалось получить данные пользователя
+Could not generate access_token	Не удалось создать access_token
+All data associated with your account have been deleted	Все данные, связанные с вашей учётной записью, удалены
+Could not generate oauth_token since credentials are invalid	Не удалось создать oauth_token: неверные учётные данные
+Could not generate oauth_token_secret since credentials are invalid	Не удалось создать oauth_token_secret: неверные учётные данные
+Login error	Ошибка входа
+Could not retrieve access_token	Не удалось получить access_token
+Adifier WP	Adifier WP
+Overall	Общие
+This is basic section where you can set up main settings for your website.	Это основной раздел, где можно настроить главные параметры сайта.
+Header Style	Стиль шапки
+Inline Navigation	Навигация в строку
+Bottom Navigation	Нижняя навигация
+Transparent Navigation	Прозрачная навигация
+Side Categories	Боковые категории
+Full Dark	Полностью тёмная
+Select style of the header. Logo selection is under Appearance tab	Выберите стиль шапки. Выбор логотипа находится на вкладке «Внешний вид»
+Header Banner	Баннер шапки
+Input header banner code here.	Введите здесь код баннера шапки.
+Header Categories	Категории в шапке
+Select which categories to display on leave empty for main categories only.	Выберите категории для отображения; оставьте пустым, чтобы показывать только основные категории.
+Header Categories Opened On Front	Категории в шапке раскрыты на главной
+Select yes if you want for cats to be opened on home page by default.	Выберите «Да», если хотите, чтобы категории на главной странице по умолчанию были раскрыты.
+Sticky Menu	Липкое меню
+Enable or disable sticky menu	Включить или отключить липкое меню
+LTR	LTR
+RTL	RTL
+Choose Site Content Direction	Направление содержимого сайта
+Choose overall website text direction which can be RTL (right to left) or LTR (left to right).	Выберите общее направление текста на сайте: RTL (справа налево) или LTR (слева направо).
+Custom CSS	Пользовательский CSS
+Here you can add custom CSS.	Здесь можно добавить пользовательский CSS.
+Custom Sidebars	Произвольные сайдбары
+Set number of custom sidebars you need.	Укажите нужное количество произвольных сайдбаров.
+Google Analytics	Google Analytics
+Input your code for google analytics.	Введите ваш код Google Analytics.
+Google AdSense	Google AdSense
+Input your adsense code here in order to have ads after the headeron inner pages.	Введите сюда код AdSense, чтобы реклама показывалась после шапки на внутренних страницах.
+GDPR	GDPR
+Input GDPR text which will be shown in every form ( registration/contact/subscribe ).	Введите текст GDPR, который будет показываться в каждой форме (регистрация/контакт/подписка).
+Register Terms	Условия при регистрации
+Input link to terms & conditions for registering	Введите ссылку на условия использования для регистрации
+Password Length	Длина пароля
+Input required number of characters for password	Укажите требуемое количество символов пароля
+Password Strength Enable	Проверка надёжности пароля
+Enable or disable password strength	Включить или отключить проверку надёжности пароля
+Max Login Attempts	Макс. попыток входа
+Input how many times user can try to login or leave empty to disable	Укажите, сколько раз пользователь может пытаться войти, или оставьте пустым, чтобы отключить
+Login Lock Time	Время блокировки входа
+Input how much time user will be locked out of login attempts after reaching maximum login attempts	Укажите, на какое время блокируется пользователь после достижения максимального числа попыток входа
+... ), Side Categories ( if sticky is enabled ), Full Dark	...), боковые категории (если включено липкое меню), полностью тёмная
+Slugs	Ярлыки (slug)
+Ads Slug	Ярлык объявлений
+Input slug you want to use for the ad single page.	Введите ярлык (slug), который вы хотите использовать для страницы одного объявления.
+Ad Category Slug	Ярлык категорий объявлений
+Input slug you want to use for the ad categories.	Введите ярлык (slug), который вы хотите использовать для категорий объявлений.
+Ad Location Slug	Ярлык местоположений объявлений
+Input slug you want to use for the ad locations.	Введите ярлык (slug), который вы хотите использовать для местоположений объявлений.
+Adifier Grid -  Width	Adifier: сетка — ширина
+Width for images in grid layout - number only	Ширина изображений в сетке — только число
+Adifier Grid -  Height	Adifier: сетка — высота
+Height for images in grid layout - number only	Высота изображений в сетке — только число
+Adifier Grid -  Crop	Adifier: сетка — обрезка
+Whether to crop images to specified width and height or resize	Обрезать ли изображения до заданных ширины и высоты или масштабировать
+Adifier List -  Width	Adifier: список — ширина
+Width for images in list layout - number only	Ширина изображений в списке — только число
+Adifier List -  Height	Adifier: список — высота
+Height for images in list layout - number only	Высота изображений в списке — только число
+Adifier List -  Crop	Adifier: список — обрезка
+Adifier Card -  Width	Adifier: карточка — ширина
+Adifier Card -  Height	Adifier: карточка — высота
+Adifier Card -  Crop	Adifier: карточка — обрезка
+Adifier Single Slider -  Width	Adifier: слайдер объявления — ширина
+Adifier Single Slider -  Height	Adifier: слайдер объявления — высота
+Adifier Single Slider -  Crop	Adifier: слайдер объявления — обрезка
+Share	Поделиться
+Post share options.	Параметры кнопки «Поделиться».
+Enable Share	Включить «Поделиться»
+Enable or disable post share.	Включить или отключить кнопку «Поделиться».
+Social Login	Вход через соцсети
+Social login options.	Параметры входа через социальные сети.
+Register your application on https://developers.facebook.com/apps/	Зарегистрируйте своё приложение на https://developers.facebook.com/apps/
+Callback URL: %sindex.php?adifier-callback=facebook	URL обратного вызова: %sindex.php?adifier-callback=facebook
+Delete Callback URL: %sindex.php?adifier-facebook-delete=1	URL удаления обратного вызова: %sindex.php?adifier-facebook-delete=1
+Facebook App ID	ID приложения Facebook
+Input facebook application ID.	Введите ID приложения Facebook.
+Facebook App Secret	Секрет приложения Facebook
+Input facebook application secret.	Введите секрет приложения Facebook.
+Register your application on https://apps.twitter.com/	Зарегистрируйте своё приложение на https://apps.twitter.com/
+Callback URL: %s	URL обратного вызова: %s
+X Consumer Key (API Key)	X Consumer Key (ключ API)
+Input twitter application ID.	Введите ID приложения Twitter.
+X Consumer Secret (API Secret)	X Consumer Secret (секрет API)
+Input twitter application secret.	Введите секрет приложения Twitter.
+Application Type: Web Application	Тип приложения: веб-приложение
+Authorized JavaScript origins: <YOUR SITE DOMAIN>	Разрешённые источники JavaScript: <ДОМЕН ВАШЕГО САЙТА>
+Callback URL: %sindex.php?adifier-callback=google	URL обратного вызова: %sindex.php?adifier-callback=google
+Google Client ID	Client ID Google
+Input google client ID.	Введите client ID Google.
+Google Client Secret	Client Secret Google
+Input google client secret.	Введите client secret Google.
+Ads settings.	Настройки объявлений.
+Map Source	Источник карт
+Google Map	Google Maps
+Mapbox	Mapbox
+Open Street Map	Open Street Map
+Select which maps you wish to use	Выберите, какие карты вы хотите использовать
+Map API Key	Ключ API карт
+Input API key of your selected map source	Введите ключ API выбранного источника карт
+Ad Types	Типы объявлений
+Select which ad types are available on site	Выберите, какие типы объявлений доступны на сайте
+Rent Periods	Сроки аренды
+Select which rent periods are available	Выберите доступные сроки аренды
+Mandatory Fields	Обязательные поля
+Select which fields are mandatory	Выберите обязательные поля
+Enable Tax ID	Включить ИНН
+Enable or disable Tax ID field	Включить или отключить поле ИНН
+Enable Account Type	Включить тип аккаунта
+Bidding Step	Шаг ставки
+Input value for bidding step	Введите значение шага ставки
+Maximum Top Ads	Максимум топ-объявлений
+Input how many top ads promotion places are available	Укажите, сколько мест для продвижения «Топ-объявление» доступно
+Similar Ads	Похожие объявления
+Input how many similar ads to show on ad single page	Укажите, сколько похожих объявлений показывать на странице объявления
+Maximum Home Map Ads	Максимум объявлений на карте главной
+Input how many home map ads pomotion places are available	Укажите, сколько мест для продвижения на карте главной страницы доступно
+Ads Per Page	Объявлений на страницу
+Input number of ads to show per page on search results	Укажите количество объявлений на страницу в результатах поиска
+Ads Per Page Author	Объявлений на страницу автора
+Input number of ads to show per page on author listing page	Укажите количество объявлений на страницу на странице списка автора
+Video Thumbnail	Миниатюра видео
+Select image for video thumbnail on ad single page (150px x 150px)	Выберите изображение миниатюры видео для страницы объявления (150x150 пикс.)
+Placeholder Image	Изображение-заглушка
+Select iamge which will be used if ad does not have images	Выберите изображение, которое будет использоваться, если у объявления нет изображений
+Map Style	Стиль карты
+Select map style for your maps	Выберите стиль для ваших карт
+Map Language	Язык карт
+GeoCoder Language	Язык геокодера
+Input map language code en, fr, de,...	Введите код языка карт: en, fr, de и т.д.
+Enable Compare	Включить сравнение
+Enable or disable comparing of the product	Включить или отключить сравнение товаров
+Auto Open Compare	Автоматически открывать сравнение
+Open compare box after product has been added to the list	Открывать окно сравнения после добавления товара в список
+Max Compare Ads	Максимум объявлений для сравнения
+Input maximum number of products to compare	Укажите максимальное количество товаров для сравнения
+Default Search Listing	Вид поиска по умолчанию
+Grid	Сетка
+List	Список
+Card	Карточка
+Select default listing on search listing	Выберите вид отображения результатов поиска по умолчанию
+Default Search Sorting	Сортировка поиска по умолчанию
+Sort By Popularity	По популярности
+Sort By Price - Descending	По цене — по убыванию
+More/Less Search Toggle	Переключатель «Больше/меньше» в поиске
+Enable or disable more/less toggle in search filters	Включить или отключить переключатель «больше/меньше» в фильтрах поиска
+Logout Contact	Контакты после выхода
+Phone Visibility	Видимость телефона
+Always Visible	Всегда виден
+Visible To Logged In Users	Виден вошедшим пользователям
+Always Hidden	Всегда скрыт
+Set visibility level for phone contact on ad and profile pages	Задайте уровень видимости телефона на страницах объявления и профиля
+Other Seller Ads Number	Количество других объявлений продавца
+Input number of other seller ads to show on ad single page	Укажите, сколько других объявлений продавца показывать на странице объявления
+Price Filter Type	Тип фильтра цены
+Slider	Слайдер
+Input Range	Поле ввода
+Can Users Deactivate Account	Пользователи могут удалить аккаунт
+Keep Orders On Delete	Сохранять заказы при удалении
+Address Direction	Формат адреса
+Country, state, city, street, number	Страна, область, город, улица, номер
+Number, street, city, state, country	Номер, улица, город, область, страна
+Select elements order of the address	Выберите порядок элементов адреса
+Reporting Of Ads	Жалобы на объявления
+By All	Все пользователи
+By Logged In Users	Только вошедшие пользователи
+Search Filter Trigger	Запуск фильтра поиска
+Clicking On A Button	Нажатием кнопки
+Any Change On Form	Любым изменением в форме
+Select what will trigger searching for results	Выберите, что будет запускать поиск результатов
+Category Selection	Выбор категории
+Combined	Объединённый
+Separated	Раздельный
+Show Username Only	Показывать только имя пользователя
+Show Comments On Ads	Показывать комментарии к объявлениям
+Enable or disable comments on ads	Включить или отключить комментарии к объявлениям
+Redirect After Ad Submit	Перенаправление после подачи объявления
+Enable or disable redirect to user ads after ad submission	Включить или отключить перенаправление на объявления пользователя после подачи объявления
+Locations settings	Настройки местоположений
+Location Search	Поиск по местоположению
+Geo Search	Геопоиск
+Predefined Values	Предопределённые значения
+Use Map Locations	Использовать местоположения с карты
+Use Predefined Locations	Использовать предопределённые местоположения
+Predefined Locations Selection	Выбор предопределённых местоположений
+Select how predefined locations should be selected	Выберите способ выбора предопределённых местоположений
+Location On Single	Местоположение на странице объявления
+Geo Location	Геолокация
+Predefined Location Value	Значение предопределённого местоположения
+Zoom Location On Single	Масштаб карты на странице объявления
+Input zoom for the single ad page	Укажите масштаб карты для страницы объявления
+Location On Profile	Местоположение в профиле
+Zoom Location On Profile	Масштаб карты в профиле
+Input zoom for the profile ad page	Укажите масштаб карты для страницы профиля
+Radius Units	Единицы радиуса
+Miles	Мили
+Kilometers	Километры
+Select units for the radius location search	Выберите единицы для поиска по радиусу
+Max Radius Search	Макс. радиус поиска
+Input max radius search distance	Укажите максимальное расстояние поиска по радиусу
+Restrict Location To Country	Ограничить местоположение страной
+Use Google Directions	Использовать маршруты Google
+Enable usage of map directions on single advert and on profile page	Включить использование маршрутов на странице объявления и в профиле
+Submitting	Подача объявлений
+Submitting settings	Настройки подачи объявлений
+Approval Method	Способ одобрения
+Auto	Автоматически
+Manual	Вручную
+Select approval method of the adverts	Выберите способ одобрения объявлений
+Show Conditions	Показывать условия
+Enable or disable conditions	Включить или отключить условия
+Submit Terms	Условия подачи
+Input link to terms & conditions for submitting ads	Введите ссылку на условия использования для подачи объявлений
+Regular Ads Expire	Срок обычных объявлений
+Input number of days how long ads last for	Укажите количество дней, в течение которых размещено объявление
+Auction Ads Expire	Срок аукционов
+Max Video	Максимум видео
+Input maximum number of videos per ad or leave empty for unlimited	Укажите максимальное количество видео на объявление или оставьте пустым для неограниченного
+Max Images	Максимум изображений
+Input maximum number of images per ad or leave empty for unlimited	Укажите максимальное количество изображений на объявление или оставьте пустым для неограниченного
+Require Image	Требовать изображение
+If you want to force users to submit images check this field	Если вы хотите обязать пользователей загружать изображения, отметьте это поле
+Max Image Size	Макс. размер изображения
+Input maximum size of image allowed in MB	Укажите максимально допустимый размер изображения в МБ
+Bad Words	Запрещённые слова
+Enter comma separated list of bad words	Введите список запрещённых слов через запятую
+Max Title Length	Макс. длина заголовка
+Input maximum number of chars that title can have	Укажите максимальное количество символов в заголовке
+Min Description Length	Мин. длина описания
+Input minimum number of chars that description must have	Укажите минимальное количество символов в описании
+Update Slug On Title Change	Обновлять ярлык при смене заголовка
+Currencies	Валюты
+Abbreviation	Сокращение
+Sign	Знак
+Sign Location ( F - Front, B - Back )	Расположение знака (F — перед суммой, B — после)
+Rate	Курс
+Thousands  Separator	Разделитель тысяч
+Decimal Separator	Десятичный разделитель
+Has Decimals ( Y - Yes, N - No )	Есть десятичные (Y — да, N — нет)
+Phone Verification	Подтверждение телефона
+Twilio settings	Настройки Twilio
+Enable Verification	Включить подтверждение
+Enable or disable phone verification	Включить или отключить подтверждение телефона
+Service SID	Service SID
+Account SID	Account SID
+Auth Token	Токен авторизации
+Emails	Эл. почта
+Email settings	Настройки эл. почты
+Sender Email	Адрес отправителя
+Input email from which all emails will be sent	Введите адрес эл. почты, с которого будут отправляться все письма
+Sender Name	Имя отправителя
+Input name from which all emails will be sent	Введите имя отправителя всех писем
+Email Logo	Логотип писем
+Select logo for emails	Выберите логотип для писем

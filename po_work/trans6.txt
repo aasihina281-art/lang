@@ -1,0 +1,230 @@
+Search %s	Поиск: %s
+All %s	Все %s
+Parent %s	Родительский элемент: %s
+Edit %s	Изменить %s
+Update %s	Обновить %s
+Add new %s	Добавить %s
+New %s	Новое: %s
+No &quot;%s&quot; found	Записи «%s» не найдены
+Additional Information	Дополнительная информация
+Select categories to show custom fields	Выберите категории для отображения произвольных полей
+ Field is not used in search	 Поле не используется в поиске
+Value not found?	Значение не найдено?
+Input list of new values separated with pipe "|"	Введите список новых значений, разделяя их символом «|»
+Input new value	Введите новое значение
++ Add Color	+ Добавить цвет
+Type new %s here...	Введите новый %s здесь...
+More Details	Подробнее
+To	До
+min	мин.
+max	макс.
+Account Status Changed	Статус аккаунта изменён
+Hello %s.	Здравствуйте, %s.
+Advert Expired	Срок объявления истёк
+Go To Advert	Перейти к объявлению
+Congratulations	Поздравляем
+Auction Failed	Аукцион не состоялся
+Your auction %s did not received any bids	Ваш аукцион %s не получил ни одной ставки
+Your auction %s failed to meet your desired reserved price %s	На вашем аукционе %s не достигнута желаемая резервная цена %s
+Go To Auction	Перейти к аукциону
+Comment Reply	Ответ на комментарий
+%s has replied on your comment on ad %s	%s ответил на ваш комментарий к объявлению %s
+Visit Ad	Перейти к объявлению
+Bill To	Плательщик
+Bill From	Получатель
+Payment method	Способ оплаты
+bank	банк
+offline	офлайн
+Review Ad	Отзыв об объявлении
+You've Been Outbid!	Вашу ставку перебили!
+View Auction	Просмотр аукциона
+Thank You For Registering	Спасибо за регистрацию
+Welcome to our platform, only one step remains	Добро пожаловать на нашу платформу, остался всего один шаг
+Confirm Email	Подтвердить эл. почту
+Ad Reported	Жалоба на объявление
+Ad has been reported with following reason:	На объявление подана жалоба по следующей причине:
+You have received a new review: %s. User has left this comment:	Вы получили новый отзыв: %s. Пользователь оставил такой комментарий:
+View Reviews	Просмотр отзывов
+New Comment	Новый комментарий
+You have a new comment on ad %s from user %s	У вас новый комментарий к объявлению %s от пользователя %s
+Latest unread message on ad %s from user %s	Последнее непрочитанное сообщение по объявлению %s от пользователя %s
+Verify Email	Подтвердите эл. почту
+All Categories	Все категории
+In Category	В категории
+Located in...	Местоположение...
+Where	Где
+Visit Account	Перейти в аккаунт
+Login / Register	Вход / Регистрация
+Call / Message	Звонок / Сообщение
+Call	Позвонить
+Submit Ad	Подать объявление
+Authorize.Net	Authorize.Net
+Configure Authorize.Net payment.	Настройка платежей Authorize.Net.
+Enable Authorize.Net	Включить Authorize.Net
+Enable or disable payment via Authorize.Net	Включить или отключить оплату через Authorize.Net
+API Login ID	API Login ID
+Input your API Login ID	Введите ваш API Login ID
+Client Key	Ключ клиента
+Input your client key	Введите ваш ключ клиента
+Transaction Key	Ключ транзакции
+Input your transation key	Введите ваш ключ транзакции
+Pay Now	Оплатить сейчас
+Card Information	Данные карты
+We were unable to process your payment at the moment	В данный момент нам не удалось обработать ваш платёж
+Your order has expired	Срок вашего заказа истёк
+Invalid payment token, try again	Недействительный токен оплаты, попробуйте снова
+Bank Transfer	Банковский перевод
+Configure Bank Transfer payment.	Настройка банковского перевода.
+Enable Bank Transfer	Включить банковский перевод
+Enable or disable payment Bank Transfer	Включить или отключить оплату банковским переводом
+Bank Account Name	Название банковского счёта
+Input your bank account name.	Введите название вашего банковского счёта.
+Bank Name	Название банка
+Input your bank name.	Введите название вашего банка.
+Bank Account Number	Номер банковского счёта
+Input your bank account number.	Введите номер вашего банковского счёта.
+Sort Number	Сортировочный номер
+Input your sort number.	Введите ваш сортировочный номер.
+IBAN Code	Код IBAN
+Input your IBAN code.	Введите ваш код IBAN.
+BIC / Swift Code	Код BIC / SWIFT
+Input your BIC / Swift code.	Введите ваш код BIC / SWIFT.
+Waiting For Payment - Instructions	Ожидание оплаты — инструкции
+Instructions	Инструкции
+Our Bank Details	Реквизиты нашего банка
+ACCOUNT NUMBER	НОМЕР СЧЁТА
+SORT CODE	SORT CODE
+IBAN	IBAN
+BIC	BIC
+These details are also available from the list of your invoices	Эти реквизиты также доступны в списке ваших счетов
+Flow	Flow
+Configure Flow payment.	Настройка платежей Flow.
+Enable Flow	Включить Flow
+Enable or disable payment via Flow	Включить или отключить оплату через Flow
+Input your flow api key	Введите ваш ключ API Flow
+Input your flow secret key	Введите ваш секретный ключ Flow
+Can not generate URL	Не удалось создать URL
+Can not process your request, contact administration	Не удалось обработать ваш запрос, обратитесь к администрации
+Fondy	Fondy
+Configure Fondy payment.	Настройка платежей Fondy.
+Enable Fondy	Включить Fondy
+Enable or disable payment via Fondy	Включить или отключить оплату через Fondy
+Merchant ID	ID продавца
+Input your Fondy merchant ID	Введите ваш ID продавца Fondy
+Merchant Password	Пароль продавца
+Input your Fondy merchant password	Введите пароль продавца Fondy
+GoPay	GoPay
+Configure GoPay payment.	Настройка платежей GoPay.
+Enable GoPay	Включить GoPay
+Enable or disable payment via GoPay	Включить или отключить оплату через GoPay
+Client ID	Client ID
+Input your client id to connect to GoPay	Введите ваш client ID для подключения к GoPay
+Client Secret	Client Secret
+Input your client secret to connect to GoPay	Введите ваш client secret для подключения к GoPay
+GoID	GoID
+Input your goid to connect to GoPay	Введите ваш GoID для подключения к GoPay
+Secure Key	Защищённый ключ
+Input your secure key to connect to GoPay	Введите ваш защищённый ключ для подключения к GoPay
+Could not create payment	Не удалось создать платёж
+iDEAL	iDEAL
+Configure iDEAL payment.	Настройка платежей iDEAL.
+Enable iDEAL	Включить iDEAL
+Enable or disable payment via iDEAL	Включить или отключить оплату через iDEAL
+Mollie Live API Key	Рабочий ключ API Mollie
+Input your mollie live key to connect to iDEAL	Введите ваш рабочий ключ Mollie для подключения к iDEAL
+Mollie Test API Key	Тестовый ключ API Mollie
+Input your mollie test key to connect to iDEAL	Введите ваш тестовый ключ Mollie для подключения к iDEAL
+We could not create payment at this point, try again	Сейчас нам не удалось создать платёж, попробуйте снова
+We could not create order at this point, try again	Сейчас нам не удалось создать заказ, попробуйте снова
+Make Commerce	Make Commerce
+Configure Make Commerce payment.	Настройка платежей Make Commerce.
+Enable Make Commerce	Включить Make Commerce
+Enable or disable payment via Make Commerce	Включить или отключить оплату через Make Commerce
+Shop ID	ID магазина
+Input your makecommerce Shop ID	Введите ваш ID магазина MakeCommerce
+API Secret Key	Секретный ключ API
+Input your api secret key	Введите ваш секретный ключ API
+API Publishable Key	Публичный ключ API
+Input your api publishable key	Введите ваш публичный ключ API
+Can not create transaction at this point	Сейчас не удалось создать транзакцию
+Transaction is not paid	Транзакция не оплачена
+MercadoPago	MercadoPago
+Configure MercadoPago payment.	Настройка платежей MercadoPago.
+Enable MercadoPago	Включить MercadoPago
+Enable or disable payment via MercadoPago	Включить или отключить оплату через MercadoPago
+Access Token	Токен доступа
+Input your MercadoPago access token	Введите ваш токен доступа MercadoPago
+Failed to create payment	Не удалось создать платёж
+Offline Payment	Офлайн-оплата
+Configure Offline Payment payment.	Настройка офлайн-оплаты.
+Enable Offline Payment	Включить офлайн-оплату
+Enable or disable payment Offline Payment	Включить или отключить офлайн-оплату
+PagSeguro	PagSeguro
+Configure PagSeguro payment.	Настройка платежей PagSeguro.
+Enable PagSeguro	Включить PagSeguro
+Enable or disable payment via PagSeguro	Включить или отключить оплату через PagSeguro
+Input your pagseguro email	Введите вашу эл. почту PagSeguro
+Token	Токен
+Input your pagseguro token	Введите ваш токен PagSeguro
+Could not generate code	Не удалось создать код
+PayDunya	PayDunya
+Configure PayDunya payment.	Настройка платежей PayDunya.
+Enable PayDunya	Включить PayDunya
+Enable or disable payment via PayDunya	Включить или отключить оплату через PayDunya
+Master Key	Главный ключ
+Input your paydunya master key	Введите ваш главный ключ PayDunya
+Private Key	Приватный ключ
+Input your paydunya private key	Введите ваш приватный ключ PayDunya
+Input your paydunya token	Введите ваш токен PayDunya
+PayFast	PayFast
+Configure PayFast payment.	Настройка платежей PayFast.
+Enable PayFast	Включить PayFast
+Enable or disable payment via PayFast	Включить или отключить оплату через PayFast
+Input your PayFast merchant ID	Введите ваш ID продавца PayFast
+Merchant Key	Ключ продавца
+Input your PayFast merchant key	Введите ваш ключ продавца PayFast
+Passphrase (optional)	Парольная фраза (необязательно)
+Input your PayFast Passphrase if it is set	Введите вашу парольную фразу PayFast, если она задана
+PayHere	PayHere
+Configure PayHere payment.	Настройка платежей PayHere.
+Enable PayHere	Включить PayHere
+Enable or disable payment via PayHere	Включить или отключить оплату через PayHere
+Input your PayHere merchant ID	Введите ваш ID продавца PayHere
+Merchant Secret	Секретный ключ продавца
+Input your PayHere merchant secret key	Введите ваш секретный ключ продавца PayHere
+Verify Your Data	Проверьте ваши данные
+All fields are mandatory	Все поля обязательны для заполнения
+Address *	Адрес *
+City *	Город *
+Country *	Страна *
+PayPal	PayPal
+Configure PayPal payment.	Настройка платежей PayPal.
+Enable PayPal	Включить PayPal
+Enable or disable payment PayPal	Включить или отключить оплату через PayPal
+PayPal Client ID Token	Токен Client ID PayPal
+Input client ID token of your PayPal application	Введите токен client ID вашего приложения PayPal
+PayPal Secret Token	Секретный токен PayPal
+Input secret token of your PayPal application	Введите секретный токен вашего приложения PayPal
+Paysafe	Paysafe
+Configure Paysafe payment.	Настройка платежей Paysafe.
+Enable Paysafe	Включить Paysafe
+Enable or disable payment via Paysafe	Включить или отключить оплату через Paysafe
+Account ID	ID аккаунта
+Input your Paysafe account ID	Введите ваш ID аккаунта Paysafe
+API Key Username	Имя пользователя ключа API
+Input your Paysafe username	Введите ваше имя пользователя Paysafe
+API KeyPassword	Пароль ключа API
+Input your Paysafe password	Введите ваш пароль Paysafe
+Single-Use Token Username	Имя пользователя одноразового токена
+Input your Paysafe single-use token username	Введите имя пользователя одноразового токена Paysafe
+Single-Use Token Password	Пароль одноразового токена
+Input your Paysafe single-use token password	Введите пароль одноразового токена Paysafe
+Enter your ZIP code	Введите ваш почтовый индекс
+Paystack	Paystack
+Configure Paystack payment.	Настройка платежей Paystack.
+Enable Paystack	Включить Paystack
+Enable or disable payment via Paystack	Включить или отключить оплату через Paystack
+Paystack Secret Key	Секретный ключ Paystack
+Paystack Public Key	Публичный ключ Paystack
+Transaction was not successful: Last gateway response was:	Транзакция не выполнена успешно. Последний ответ платёжного шлюза:
+Reference is invalid	Недействительная ссылка
