@@ -1,0 +1,468 @@
+PayU EU	PayU EU
+Configure PayUEU payment.	Настройка платежей PayU EU.
+Enable payueu	Включить PayU EU
+Enable or disable payment via payueu	Включить или отключить оплату через PayU EU
+POS ID	POS ID
+Input your payueu POS ID	Введите ваш POS ID PayU EU
+Second Key	Второй ключ
+Input your payueu second key	Введите ваш второй ключ PayU EU
+OAuth Client ID	OAuth Client ID
+Input your payueu OAuth client ID	Введите ваш OAuth client ID PayU EU
+OAuth Client Secret	OAuth Client Secret
+Input your payueu OAuth client secret	Введите ваш OAuth client secret PayU EU
+PayUEU	PayU EU
+PayU Latam	PayU Latam
+Configure PayUlatam payment.	Настройка платежей PayU Latam.
+Enable PayUlatam	Включить PayU Latam
+Enable or disable payment via PayUlatam	Включить или отключить оплату через PayU Latam
+Input your PayUlatam merchant ID	Введите ваш ID продавца PayU Latam
+Input your PayUlatam account ID	Введите ваш ID аккаунта PayU Latam
+Input your PayUlatam API key	Введите ваш ключ API PayU Latam
+API Login	API Login
+Input your PayUlatam API Login	Введите ваш API Login PayU Latam
+MD5	MD5
+SHA1	SHA1
+SHA256	SHA256
+Encription	Шифрование
+Select signature encription	Выберите шифрование подписи
+PayUlatam	PayU Latam
+PayU Money	PayU Money
+Configure PayUmoney payment.	Настройка платежей PayU Money.
+Enable PayUmoney	Включить PayU Money
+Enable or disable payment via PayUmoney	Включить или отключить оплату через PayU Money
+Key	Ключ
+Input your PayUmoney key	Введите ваш ключ PayU Money
+Salt	Соль
+Input your PayUmoney salt	Введите вашу соль PayU Money
+Authorization Header	Заголовок авторизации
+Input your Auth/Test header	Введите ваш заголовок Auth/Test
+PayUmoney	PayU Money
+Check if the transaction is settled	Проверить, завершена ли транзакция
+You need to provide your phone number	Необходимо указать номер телефона
+You need to provide your first name	Необходимо указать имя
+Hashes do not match	Хеши не совпадают
+QuickPay	QuickPay
+Configure QuickPay payment.	Настройка платежей QuickPay.
+Enable QuickPay	Включить QuickPay
+Enable or disable payment via QuickPay	Включить или отключить оплату через QuickPay
+Input your QuickPay merchant ID	Введите ваш ID продавца QuickPay
+Agreement ID	ID соглашения
+Input your QuickPay agreement ID	Введите ваш ID соглашения QuickPay
+Account Private Key	Приватный ключ аккаунта
+Input your QuickPay account private key	Введите ваш приватный ключ аккаунта QuickPay
+Payment Window API	Payment Window API
+Input your QuickPay payment window api key	Введите ваш ключ API платёжного окна QuickPay
+Stripe	Stripe
+Configure Stripe payment.	Настройка платежей Stripe.
+Enable Stripe	Включить Stripe
+Enable or disable payment via Stripe	Включить или отключить оплату через Stripe
+Publishable key	Публичный ключ
+Input your stripe public API key	Введите ваш публичный ключ API Stripe
+Secret key	Секретный ключ
+Input your stripe secret API ID	Введите ваш секретный ключ API Stripe
+Card Details	Данные карты
+Could not generate session ID	Не удалось создать ID сессии
+Wallet one	Wallet One
+Configure Wallet one payment.	Настройка платежей Wallet One.
+Enable Wallet one	Включить Wallet One
+Enable or disable payment via Wallet one	Включить или отключить оплату через Wallet One
+Input your Wallet One merchant ID	Введите ваш ID продавца Wallet One
+Encryption	Шифрование
+Select encryption type for your store	Выберите тип шифрования для вашего магазина
+Input your Wallet One secret key	Введите ваш секретный ключ Wallet One
+Wallet One	Wallet One
+Unkown order status	Неизвестный статус заказа
+Wrong digital signature	Неверная цифровая подпись
+Worldpay	Worldpay
+Configure Worldpay payment.	Настройка платежей Worldpay.
+Enable Worldpay	Включить Worldpay
+Enable or disable payment via Worldpay	Включить или отключить оплату через Worldpay
+Service Key	Сервисный ключ
+Input your Worldpay service key	Введите ваш сервисный ключ Worldpay
+Input your Worldpay client key	Введите ваш клиентский ключ Worldpay
+Failed to execute payment	Не удалось выполнить платёж
+Add New	Добавить
+Select an item	Выберите элемент
+Filter Ads	Фильтр объявлений
+Reset Search	Сбросить поиск
+Radius	Радиус
+Show ads on sale only	Показывать только объявления со скидкой
+Show ads with image(s) only	Показывать только объявления с изображениями
+Show negotiable ads only	Показывать только объявления с торгом
+Show only urgent ads	Показывать только срочные объявления
+Apply Filters	Применить фильтры
+Showing	Показано
+of	из
+ad found	объявление найдено
+ads found	объявления найдены
+Sort By Price - Ascending	По цене — по возрастанию
+Display ads on your page.	Показать объявления на вашей странице.
+Adifier	Adifier
+Button	Кнопка
+Display button element.	Показать элемент кнопки.
+Display location element.	Показать элемент местоположения.
+Locations List	Список местоположений
+Display location element in plain list	Показать элемент местоположения в виде простого списка
+Display title element.	Показать элемент заголовка.
+Blogs	Блоги
+Display blogs on your page.	Показать блоги на вашей странице.
+Display categories on your page.	Показать категории на вашей странице.
+Categories list	Список категорий
+Display categories in list on your page.	Показать категории в виде списка на вашей странице.
+Categories Table	Таблица категорий
+Display categories in table layout.	Показать категории в виде таблицы.
+Transparent Categories	Прозрачные категории
+Display transparent categories element.	Показать элемент прозрачных категорий.
+Categories Tree	Дерево категорий
+Display categories in boxes with subcats on your page.	Показать категории в блоках с подкатегориями на вашей странице.
+Infinity Ads	Бесконечные объявления
+Display price tables on your page.	Показать таблицы цен на вашей странице.
+Promotion Map	Карта продвижения
+Display map with ads which have purchased promotion on map.	Показать карту с объявлениями, купившими продвижение на карте.
+Display quick search element.	Показать элемент быстрого поиска.
+Round Icon	Круглый значок
+Display icon with round backgrond.	Показать значок с круглым фоном.
+Search Form	Форма поиска
+Display search form on the page.	Показать форму поиска на странице.
+Service	Услуга
+Display service element.	Показать элемент услуги.
+Image/Text Slider	Слайдер изображений/текста
+Display image&text slider on your page.	Показать слайдер изображений и текста на вашей странице.
+Text Slider	Текстовый слайдер
+Display text slider on your page.	Показать текстовый слайдер на вашей странице.
+Typed Text	Печатаемый текст
+Display typed text element.	Показать элемент печатаемого текста.
+Content	Содержимое
+Shortcode	Шорткод
+In:	В:
+View All	Показать все
+Register Now	Зарегистрироваться
+Search for... (min 4 chars)	Искать... (мин. 4 символа)
+Style	Стиль
+With Shadow	С тенью
+Vertical	Вертикальный
+Labeled	С подписями
+Select type of search form	Выберите тип формы поиска
+Display service	Показать услугу
+Select Icon	Выбрать значок
+Icon BG Color	Фон значка
+Icon Font Color	Цвет значка
+Subtitle	Подзаголовок
+Service Style	Стиль услуги
+Horizontal	Горизонтальный
+Horizontal With Icon Right	Горизонтальный со значком справа
+Ads Source	Источник объявлений
+By Choice	По выбору
+By Category	По категории
+By Location	По местоположению
+Select from where you want to pull ads	Выберите, откуда получать объявления
+Display only topads	Показывать только топ-объявления
+Select which ads to show	Выберите, какие объявления показывать
+Ads Number	Количество объявлений
+Select how many ads to grab	Выберите количество отображаемых объявлений
+Select type of ads	Выберите тип объявлений
+Select categories from which to show ads	Выберите категории, из которых показывать объявления
+Select location from which to show ads	Выберите местоположение, из которого показывать объявления
+By Expire	По сроку истечения
+By Popularity	По популярности
+By Price	По цене
+By Date	По дате
+By Title	По заголовку
+Random	Случайно
+Select by which field to order ads	Выберите поле, по которому сортировать объявления
+Select how to order ads	Выберите направление сортировки объявлений
+Big Slider	Большой слайдер
+Select style of the ads	Выберите стиль отображения объявлений
+Show In Slider	Показывать в слайдере
+To show ads in slider or not	Показывать объявления в слайдере или нет
+Visible Items	Видимые элементы
+Select how many items to display on each slide	Выберите количество элементов на одном слайде
+Autoplay Speed (in ms)	Скорость автопрокрутки (в мс)
+Leave emptyto disable	Оставьте пустым, чтобы отключить
+Double Row	Двойной ряд
+Items In Row	Элементов в ряду
+Select how many items to display in each row	Выберите количество элементов в каждом ряду
+Ads Number Per Load	Объявлений на загрузку
+Select which categories to display or leave empty to show all of them	Выберите категории для отображения или оставьте пустым, чтобы показать все
+Side Icon With Background	Боковой значок с фоном
+Top icon With Background	Верхний значок с фоном
+Side Icon	Боковой значок
+Top Icon	Верхний значок
+Select box style for categories	Выберите стиль блока для категорий
+Show or hide number of ads per category	Показать или скрыть количество объявлений в категории
+To show items in slider or not	Показывать элементы в слайдере или нет
+How many categories per row	Сколько категорий в ряду
+Max Image Width	Макс. ширина изображения
+Name Font Size	Размер шрифта названия
+Count Font Size	Размер шрифта количества
+Icon Bottom Margin	Нижний отступ значка
+Box Padding	Внутренний отступ блока
+If you want to adjust box padding input it here. For example 25px	Если хотите изменить внутренний отступ блока, укажите его здесь. Например, 25px
+Show empty?	Показывать пустые?
+Select yes if you want to dispaly empty categories	Выберите «Да», если хотите отображать пустые категории
+Categories List	Список категорий
+Subcategories Number	Количество подкатегорий
+Input how many subcategories to display	Укажите, сколько подкатегорий отображать
+Select an icon	Выберите значок
+Icon Color	Цвет значка
+Select color of the icon	Выберите цвет значка
+Icon Background Color	Фоновый цвет значка
+Select background color of the icon	Выберите фоновый цвет значка
+Icon Size?	Размер значка?
+Input size of the icon in pixels	Укажите размер значка в пикселях
+Box Width	Ширина блока
+Input width in pixels for the box of the icon	Укажите ширину блока значка в пикселях
+Input height in pixels for the box of the icon	Укажите высоту блока значка в пикселях
+Number Of Posts	Количество записей
+Input number of posts to show	Укажите количество отображаемых записей
+To show posts in slider or not	Показывать записи в слайдере или нет
+Package / Subscription	Пакет / Подписка
+Select which package /subscription to show	Выберите пакет / подписку для отображения
+Is Active	Активный
+If this package is active it will stand out more	Если этот пакет активен, он будет больше выделяться
+Map Height	Высота карты
+Input map height. For example 400px	Укажите высоту карты. Например, 400px
+Default Latitude	Широта по умолчанию
+Input latitude which will be used when there are no promotion ads	Укажите широту, которая будет использоваться, если нет объявлений с продвижением
+Default Longitude	Долгота по умолчанию
+Input longitude which will be used when there are no promotion ads	Укажите долготу, которая будет использоваться, если нет объявлений с продвижением
+Default Zoom	Масштаб по умолчанию
+Input zoom which will be used when there are no promotion ads	Укажите масштаб, который будет использоваться, если нет объявлений с продвижением
+Heading	Заголовок
+Select heading for title	Выберите уровень заголовка для титула
+Align	Выравнивание
+Left	Слева
+Center	По центру
+Right	Справа
+Select title text align	Выберите выравнивание текста заголовка
+Title Text	Текст заголовка
+Subtitle Text	Текст подзаголовка
+Tag Wrapper	Обёртка тега
+Select tag wrapper for the text	Выберите тег-обёртку для текста
+Smart Word Guess	Умный подбор слов
+Type Speed	Скорость печати
+Back Speed	Скорость удаления
+Input text to be typed	Введите текст для печати
+Style 1	Стиль 1
+Style 2	Стиль 2
+Style 3	Стиль 3
+Style 4	Стиль 4
+Style 5	Стиль 5
+Select style for displaying locations	Выберите стиль отображения местоположений
+Enable oir disable display of ads number	Включить или отключить показ количества объявлений
+Select location to dispaly	Выберите местоположение для отображения
+Select image representative for location	Выберите изображение, представляющее местоположение
+Locations In List	Местоположения в списке
+List Items Color	Цвет элементов списка
+Select color of the items in the list	Выберите цвет элементов списка
+Colulmns	Колонки
+In how many columns to display the list	В сколько колонках отображать список
+Categories Transparent	Прозрачные категории
+How many items to be visible in ths slider	Сколько элементов видно в этом слайдере
+Select category to display	Выберите категорию для отображения
+Select categories	Выберите категории
+Text Color	Цвет текста
+Select color of the text	Выберите цвет текста
+Slider Timeout	Задержка слайдера
+For how long to display the slide in ms	Как долго показывать слайд, в мс
+Slides	Слайды
+Big Text	Крупный текст
+Input big text	Введите крупный текст
+Small Text	Мелкий текст
+Input small text	Введите мелкий текст
+Select image	Выбрать изображение
+Create slides	Создать слайды
+Interactive Slider	Интерактивный слайдер
+Dots Color	Цвет точек
+Select color of dots navigation	Выберите цвет точечной навигации
+Height	Высота
+Input height of the slider in pixels (i.e. 450px)	Укажите высоту слайдера в пикселях (например, 450px)
+Big Text Color	Цвет крупного текста
+Select color of the big text	Выберите цвет крупного текста
+Small Text Color	Цвет мелкого текста
+Select color of the small text color	Выберите цвет мелкого текста
+Text Button	Текст кнопки
+Input text of the button	Введите текст кнопки
+Button Link	Ссылка кнопки
+Input link for the button	Введите ссылку для кнопки
+Select align of the text	Выберите выравнивание текста
+How It Works	Как это работает
+Item	Элемент
+Select icon	Выберите значок
+Select icon background color	Выберите фоновый цвет значка
+Select icon font color	Выберите цвет значка
+Icon BG Color Hover	Фон значка при наведении
+Select icon background color on hover	Выберите фоновый цвет значка при наведении
+Icon Font Color Hover	Цвет значка при наведении
+Select icon font color on hover	Выберите цвет значка при наведении
+Input title	Введите заголовок
+Input description	Введите описание
+Columns	Колонки
+In how many columns to show the categories	В сколько колонок показывать категории
+BG Slider Images	Фоновые изображения слайдера
+Separate items with new line ( ENTER/RETURN )	Разделяйте элементы новой строкой (ENTER/RETURN)
+General	Основные
+Options	Параметры
+Button Text	Текст кнопки
+Link	Ссылка
+Class	Класс
+Padding	Отступы
+Border Radius	Скругление рамки
+Border Width	Толщина рамки
+Border Color	Цвет рамки
+Font Color	Цвет шрифта
+Border Color Hover	Цвет рамки при наведении
+Background Color Hover	Фоновый цвет при наведении
+Font Color Hover	Цвет шрифта при наведении
+Button Align	Выравнивание кнопки
+Box	Блок
+Shadow	Тень
+In form TOP RIGHT BOTTOM LEFT for example 10px 10px 0px 0px	В формате СВЕРХУ СПРАВА СНИЗУ СЛЕВА, например 10px 10px 0px 0px
+Input comma separated list od IDs	Введите список ID через запятую
+Send Us A Message	Напишите нам
+Your Name *	Ваше имя *
+Your Email *	Ваша эл. почта *
+Message Subject *	Тема сообщения *
+Your Message *	Ваше сообщение *
+Send Message	Отправить сообщение
+Showing %s - %s of %s users	Показаны %s–%s из %s пользователей
+No results found matched your criteria	По вашим критериям результаты не найдены
+Filter users...	Фильтр пользователей...
+ - Refunded	 - Возврат средств
+Invoice Number	Номер счёта
+Date Created	Дата создания
+Order Total	Сумма заказа
+Place your bid	Сделать ставку
+Edit this ad	Изменить это объявление
+Auction Ends In:	Аукцион завершится через:
+Ends on %s (UTC%s)	Завершение %s (UTC%s)
+Bid For Goods	Ставка на товар
+Min bid:	Мин. ставка:
+Place Bid	Сделать ставку
+Ad Owner	Владелец объявления
+Ask questions about offer	Задать вопрос об объявлении
+Your email for replies	Ваша эл. почта для ответов
+Name *	Имя *
+Your name	Ваше имя
+Ask us anything	Спросите нас о чём угодно
+Password Repeat *	Повтор пароля *
+Create an account for me	Создать для меня учётную запись
+Ad Action	Действия с объявлением
+Print	Печать
+More Ads From This User	Ещё объявления этого пользователя
+This Ad Has Expired	Срок действия этого объявления истёк
+Sorry This Page Isn't Available	К сожалению, эта страница недоступна
+0 Comments	Комментариев нет
+1 Comment	1 комментарий
+% Comments	Комментарии: %
+Leave A Comment	Оставить комментарий
+Send Comment	Отправить комментарий
+Write your name	Введите ваше имя
+Write your email	Введите вашу эл. почту
+URL	URL
+Add your URL	Добавьте ваш URL
+Comment *	Комментарий *
+Your comment goes here...	Ваш комментарий здесь...
+or cancel reply	или отменить ответ
+Fields marked with * are required	Поля, отмеченные звёздочкой (*), обязательны для заполнения
+You must	Вы должны
+to post a comment	чтобы оставить комментарий
+From version 3.9.1 default page builder becomes Elementor.	Начиная с версии 3.9.1 конструктор страниц по умолчанию — Elementor.
+Redux Framework	Redux Framework
+Elementor	Elementor
+Adifier System	Adifier System
+Smeta	Smeta
+Adifier Import	Adifier Import
+One Click Demo Import	One Click Demo Import
+Blog Sidebar	Сайдбар блога
+Appears on the right side of blog listing.	Появляется справа от списка записей блога.
+Single Blog Sidebar	Сайдбар одной записи блога
+Appears on the right side of single blog page.	Появляется справа на странице одной записи блога.
+Bottom Sidebar 1	Нижний сайдбар 1
+Appears at the bottom of the page.	Появляется внизу страницы.
+Bottom Sidebar 2	Нижний сайдбар 2
+Bottom Sidebar 3	Нижний сайдбар 3
+Page Right Sidebar	Правый сайдбар страницы
+Appears at the right of the page.	Появляется справа от страницы.
+Page Left Sidebar	Левый сайдбар страницы
+Appears at the left of the page.	Появляется слева от страницы.
+Custom Sidebar	Произвольный сайдбар
+Main Navigation	Главная навигация
+I accept map cookies	Я принимаю файлы cookie карт
+Clear	Очистить
+Default	По умолчанию
+Select Color	Выбрать цвет
+Current Color	Текущий цвет
+Drop files here to upload	Перетащите файлы сюда для загрузки
+Your browser does not support drag'n'drop file uploads.	Ваш браузер не поддерживает перетаскивание файлов для загрузки.
+File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB.	Файл слишком большой ({{filesize}} МиБ). Максимальный размер: {{maxFilesize}} МиБ.
+You can't upload files of this type.	Нельзя загружать файлы этого типа.
+Server responded with {{statusCode}} code.	Сервер ответил кодом {{statusCode}}.
+Cancel upload	Отменить загрузку
+Upload canceled.	Загрузка отменена.
+Are you sure you want to cancel this upload?	Вы уверены, что хотите отменить эту загрузку?
+Remove file	Удалить файл
+You can not upload any more files.	Больше нельзя загружать файлы.
+Image is too small	Изображение слишком маленькое
+Now	Сейчас
+Done	Готово
+Min %s chars	Мин. %s символов
+Strong	Надёжный
+Medium	Средний
+Weak	Слабый
+By clicking play you are giving cookies consent	Нажимая «Воспроизвести», вы даёте согласие на использование файлов cookie
+Author	Автор
+ at 	 в 
+Your comment is awaiting moderation.	Ваш комментарий ожидает модерации.
+Install Required Plugins	Установить необходимые плагины
+Install Plugins	Установить плагины
+Installing Plugin: %s	Установка плагина: %s
+Updating Plugin: %s	Обновление плагина: %s
+Something went wrong with the plugin API.	Произошла ошибка с API плагина.
+Return to Required Plugins Installer	Вернуться к установщику необходимых плагинов
+Return to the Dashboard	Вернуться к панели управления
+Plugin activated successfully.	Плагин успешно активирован.
+No action taken. Plugin %1$s was already active.	Действия не предпринято. Плагин %1$s уже был активен.
+All plugins installed and activated successfully. %1$s	Все плагины успешно установлены и активированы. %1$s
+Dismiss this notice	Закрыть это уведомление
+Please contact the administrator of this site for help.	Обратитесь к администратору этого сайта за помощью.
+This plugin needs to be updated to be compatible with your theme.	Этот плагин нужно обновить для совместимости с вашей темой.
+Update Required	Требуется обновление
+Set the parent_slug config variable instead.	Вместо этого задайте переменную конфигурации parent_slug.
+TGMPA v%s	TGMPA v%s
+Required	Требуется
+Recommended	Рекомендуется
+WordPress Repository	Репозиторий WordPress
+External Source	Внешний источник
+Pre-Packaged	Поставляется в комплекте
+Not Installed	Не установлен
+Installed But Not Activated	Установлен, но не активирован
+Required Update not Available	Необходимое обновление недоступно
+Requires Update	Требуется обновление
+Update recommended	Рекомендуется обновление
+Installed version:	Установленная версия:
+Minimum required version:	Минимальная требуемая версия:
+Available version:	Доступная версия:
+No plugins to install, update or activate.	Нет плагинов для установки, обновления или активации.
+Plugin	Плагин
+Source	Источник
+Version	Версия
+Upgrade message from the plugin author:	Сообщение об обновлении от автора плагина:
+Install	Установить
+Activate	Активировать
+No plugins were selected to be installed. No action taken.	Не выбрано ни одного плагина для установки. Действия не предпринято.
+No plugins were selected to be updated. No action taken.	Не выбрано ни одного плагина для обновления. Действия не предпринято.
+No plugins are available to be installed at this time.	Сейчас нет плагинов, доступных для установки.
+No plugins are available to be updated at this time.	Сейчас нет плагинов, доступных для обновления.
+No plugins were selected to be activated. No action taken.	Не выбрано ни одного плагина для активации. Действия не предпринято.
+No plugins are available to be activated at this time.	Сейчас нет плагинов, доступных для активации.
+Plugin activation failed.	Не удалось активировать плагин.
+All installations and activations have been completed.	Все установки и активации завершены.
+%1$s installed successfully.	%1$s успешно установлен.
+All installations have been completed.	Все установки завершены.
+Show Details	Показать подробности
+Hide Details	Скрыть подробности
+Read More	Читать далее
+No posts found matched your criteria	По вашим критериям записи не найдены
+&raquo;	&raquo;
+&laquo;	&laquo;

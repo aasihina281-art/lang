@@ -1,0 +1,305 @@
+Products settings	Настройки товаров
+Account	Аккаунт
+Account products	Товары аккаунта
+Account Payments	Оплата аккаунта
+Select payment way for site usage.	Выберите способ оплаты использования сайта.
+Hybrid	Гибрид
+Free Ads	Бесплатные объявления
+Input number of ads which users will receive upon registration	Укажите количество объявлений, которое пользователи получат при регистрации
+Free Time For Ads	Бесплатное время для объявлений
+Input time in days how long free ads will be active	Укажите срок в днях, в течение которого активны бесплатные объявления
+Free Submits For Hybrid	Бесплатные подачи для гибрида
+Input number of free submits that hybrid subscription will have	Укажите количество бесплатных подач в гибридной подписке
+Time	Время
+Name	Название
+Subscriptions	Подписки
+Hybrids	Гибриды
+Ad products	Товары объявлений
+Enable Promotions	Включить продвижение
+Enable promotions	Включить продвижение объявлений
+Payments	Платежи
+Payment settings	Настройки оплаты
+Thousands Separator	Разделитель тысяч
+Input sugn for thousands separator ( for display purposes )	Введите символ разделителя тысяч (для отображения)
+Input sugn for decimal separator ( for display purposes )	Введите символ десятичного разделителя (для отображения)
+Show Decimals	Показывать десятичные
+Enable or disable decimal places on price	Включить или отключить десятичные знаки в цене
+Currency Symbol Location	Расположение символа валюты
+Before Price	Перед ценой
+After Price	После цены
+Select location of the symbol.	Выберите расположение символа.
+Currency Abbreviation	Сокращение валюты
+Input currency abbreviation ( USD, EUR, ... )	Введите сокращение валюты (USD, EUR и т.д.)
+Test	Тестовый
+Live	Рабочий
+Payment Enviroment	Платёжная среда
+Select payment mode Test or Live. Note: If you are going to test payments then please create separate staging site	Выберите режим оплаты: тестовый или рабочий. Примечание: если планируете тестировать платежи, создайте отдельный тестовый сайт
+Currency Symbol	Символ валюты
+Input price symbol.	Введите символ цены.
+Tax	Налог
+Input tax - number only with maximum 2 decimal places	Введите налог — только число с максимум 2 знаками после запятой
+Tax Name	Название налога
+name of the tax	название налога
+Invoice Data	Данные счёта
+Input information of your company which are required to be on invoice	Введите информацию о вашей компании, которая должна быть указана на счёте
+Invoice Number - Start	Номер счёта — начало
+Invoice Number - Prefix	Номер счёта — префикс
+Invoice Number - Sufix	Номер счёта — суффикс
+Force Sequential Paid Invoice Numbering	Принудительная последовательная нумерация оплаченных счетов
+Blog settings	Настройки блога
+Listing Type	Тип списка
+Select listing style for blog listing.	Выберите стиль отображения списка записей блога.
+Grid 1 & Sidebar	Сетка 1 и сайдбар
+Grid 1	Сетка 1
+Grid 2 & Sidebar	Сетка 2 и сайдбар
+Grid 2	Сетка 2
+Grid 3	Сетка 3
+reCaptcha v3	reCaptcha v3
+Site Key	Ключ сайта
+Type your site api key.	Введите ваш ключ API сайта.
+Secret Key	Секретный ключ
+Type your secret api key.	Введите ваш секретный ключ API.
+Set up subscription API key and list ID.	Настройте ключ API подписки и ID списка.
+API Key	Ключ API
+Type your mail chimp api key.	Введите ваш ключ API Mailchimp.
+List ID	ID списка
+Type here ID of the list on which users will subscribe.	Введите здесь ID списка, на который будут подписываться пользователи.
+Double Opt-In	Двойное подтверждение
+Appearance	Внешний вид
+Set up the looks.	Настройте внешний вид.
+Logo For Light	Логотип для светлой темы
+Logo For Dark	Логотип для тёмной темы
+Main Color	Основной цвет
+Select main color of the site.	Выберите основной цвет сайта.
+Main Color On Hover	Основной цвет при наведении
+Select main color of the site on hover for example for button.	Выберите основной цвет сайта при наведении, например для кнопки.
+Main Font Color	Основной цвет текста
+Main Font Color On Hover	Цвет текста при наведении
+Select main font color of the site on hover for example for button.	Выберите основной цвет текста сайта при наведении, например для кнопки.
+Search Button Background	Фон кнопки поиска
+Select background color of the search button on inner pages.	Выберите цвет фона кнопки поиска на внутренних страницах.
+Search Button Background Hover	Фон кнопки поиска при наведении
+Select background color on hover of the search button on inner pages.	Выберите цвет фона кнопки поиска на внутренних страницах при наведении.
+Search Button Font Color	Цвет текста кнопки поиска
+Select font color of the search button on inner pages.	Выберите цвет текста кнопки поиска на внутренних страницах.
+Search Button Font Hover	Цвет текста кнопки поиска при наведении
+Select font color on hover of the search button on inner pages.	Выберите цвет текста кнопки поиска на внутренних страницах при наведении.
+Link Color	Цвет ссылок
+Select color for the text links.	Выберите цвет текстовых ссылок.
+Price Color	Цвет цены
+Select color for the priceon ad items.	Выберите цвет цены в элементах объявлений.
+Logo Width	Ширина логотипа
+Input logo width	Укажите ширину логотипа
+Logo Height	Высота логотипа
+Input logo height	Укажите высоту логотипа
+Full Button	Полная кнопка
+Icon Only	Только значок
+Header Submit Button	Кнопка «Подать объявление» в шапке
+Typography	Типографика
+Text Font	Шрифт текста
+Select font for the regular text.	Выберите шрифт для обычного текста.
+Text Font Size	Размер шрифта текста
+Inuput font size for the regular text.	Укажите размер шрифта для обычного текста.
+Text Font Line Height	Межстрочный интервал текста
+Input line height e for the regular text.	Укажите межстрочный интервал для обычного текста.
+Text Font Weight	Насыщенность шрифта текста
+Text Font Color	Цвет шрифта текста
+Select font color for the text.	Выберите цвет шрифта для текста.
+Title Font	Шрифт заголовков
+Select font for the title text.	Выберите шрифт для текста заголовков.
+Title Font Weight	Насыщенность шрифта заголовков
+Title Font Color	Цвет шрифта заголовков
+Select font color for the titles.	Выберите цвет шрифта для заголовков.
+Heading Line Height	Межстрочный интервал заголовков
+Input headings line height.	Укажите межстрочный интервал заголовков.
+Heading 1 Font Size	Размер шрифта заголовка H1
+Input heading 1 font size.	Укажите размер шрифта заголовка H1.
+Heading 2 Font Size	Размер шрифта заголовка H2
+Input heading 2 font size.	Укажите размер шрифта заголовка H2.
+Heading 3 Font Size	Размер шрифта заголовка H3
+Input heading 3 font size.	Укажите размер шрифта заголовка H3.
+Heading 4 Font Size	Размер шрифта заголовка H4
+Input heading 4 font size.	Укажите размер шрифта заголовка H4.
+Heading 5 Font Size	Размер шрифта заголовка H5
+Input heading 5 font size.	Укажите размер шрифта заголовка H5.
+Heading 6 Font Size	Размер шрифта заголовка H6
+Input heading 6 font size.	Укажите размер шрифта заголовка H6.
+Footer Sidebars	Сайдбары подвала
+Background Color	Цвет фона
+Select background color for the footer sidebar.	Выберите цвет фона для сайдбара подвала.
+Text Active Color	Цвет активного текста
+Select font color for the links.	Выберите цвет шрифта для ссылок.
+Breadcrumbs	Хлебные крошки
+Show Breadcrumbs	Показывать хлебные крошки
+Enable or disable display of breadcrumbs	Включить или отключить показ хлебных крошек
+Show Header Search	Показывать поиск в шапке
+Enable or disable display of header search	Включить или отключить показ поиска в шапке
+Normal	Обычный
+Breadcrumbs Style	Стиль хлебных крошек
+Select breadcrumbs style	Выберите стиль хлебных крошек
+Select background color for the breadcrumbs	Выберите цвет фона для хлебных крошек
+Breadcrumbs BG Image	Фоновое изображение хлебных крошек
+Select background iamge of breadcrumbs	Выберите фоновое изображение хлебных крошек
+Price Tables	Таблицы цен
+Price BG Color	Фон цены
+Select background color for price section.	Выберите цвет фона для блока цены.
+Price Font Color	Цвет цены
+Select font color for price section.	Выберите цвет текста для блока цены.
+Title BG Color	Фон заголовка
+Select background color for title section.	Выберите цвет фона для блока заголовка.
+Select font color for title section.	Выберите цвет текста для блока заголовка.
+Button BG Color	Фон кнопки
+Select background color for button.	Выберите цвет фона кнопки.
+Button Font Color	Цвет текста кнопки
+Select font color for button.	Выберите цвет текста кнопки.
+Button BG Color Hover	Фон кнопки при наведении
+Select background color for button onhover.	Выберите цвет фона кнопки при наведении.
+Button Font Color On Hover	Цвет текста кнопки при наведении
+Select font color for button on hover.	Выберите цвет текста кнопки при наведении.
+Price BG Color ( Active Table )	Фон цены (активная таблица)
+Price Font Color ( Active Table )	Цвет цены (активная таблица)
+Title BG Color ( Active Table )	Фон заголовка (активная таблица)
+Title Font Color ( Active Table )	Цвет заголовка (активная таблица)
+Button BG Color ( Active Table )	Фон кнопки (активная таблица)
+Button Font Color ( Active Table )	Цвет текста кнопки (активная таблица)
+Button BG Color Hover ( Active Table )	Фон кнопки при наведении (активная таблица)
+Button Font Color On Hover ( Active Table )	Цвет текста кнопки при наведении (активная таблица)
+Copyrights	Права
+Dark Navigation	Тёмная навигация
+Select background color for the dark navigation.	Выберите цвет фона для тёмной навигации.
+Select font color for the dark navigation.	Выберите цвет текста для тёмной навигации.
+Text Font Color Active/Hover	Цвет текста (активный/наведение)
+Select font color for the dark navigation on hover or when active.	Выберите цвет текста тёмной навигации при наведении или активности.
+Select background color for the subscription.	Выберите цвет фона для блока подписки.
+Select font color for the subscription.	Выберите цвет текста для блока подписки.
+CTAs	Кнопки действия
+Contact Phone Icon BG	Фон значка звонка
+Contact Phone BG Color	Фон кнопки звонка
+Select background color for the contact seller by phone call to action.	Выберите цвет фона кнопки действия «Позвонить продавцу».
+Contact Phone Font Color	Цвет текста кнопки звонка
+Select font color for the contact seller by phone call to action.	Выберите цвет текста кнопки действия «Позвонить продавцу».
+Contact Message Icon BG	Фон значка сообщения
+Contact Message BG Color	Фон кнопки сообщения
+Contact Message Font Color	Цвет текста кнопки сообщения
+Select font color for the contact seller by message call to action.	Выберите цвет текста кнопки действия «Написать продавцу».
+Contact Page	Страница контакта
+Contact page settings.	Настройки страницы контакта.
+Email	Эл. почта
+Input email where the messages should arive.	Введите адрес эл. почты, на который должны приходить сообщения.
+Markers	Маркеры
+Input markers for contact page in form LATITUDE,LONGITUDE.	Введите маркеры для страницы контакта в формате ШИРОТА,ДОЛГОТА.
+Marker Icon	Значок маркера
+Select marker icon for the contact page.	Выберите значок маркера для страницы контакта.
+Markers Max Zoom	Макс. масштаб маркеров
+Markers max zoom 0 - 19.	Максимальный масштаб маркеров: 0–19.
+Footer	Подвал
+Footer settings.	Настройки подвала.
+Enable Subscription Form	Включить форму подписки
+Enable or disable footer subscription section.	Включить или отключить блок подписки в подвале.
+Enable Footer	Включить подвал
+Enable or disable footer section.	Включить или отключить подвал.
+Input copyrights which will be visible at the bottom of the page.	Введите текст об авторских правах, который будет виден внизу страницы.
+Enable Social	Включить соцсети
+Enable or disable social links in top bar.	Включить или отключить ссылки на соцсети в верхней панели.
+Facebook Link	Ссылка на Facebook
+Input link to your facebook page	Введите ссылку на вашу страницу в Facebook
+X Link	Ссылка на X
+Input link to your x page	Введите ссылку на вашу страницу в X
+Instagram Link	Ссылка на Instagram
+Input link to your instagram page	Введите ссылку на вашу страницу в Instagram
+YouTube Link	Ссылка на YouTube
+Input link to your youtube page	Введите ссылку на ваш канал YouTube
+Pinterest Link	Ссылка на Pinterest
+Input link to your pinterest page	Введите ссылку на вашу страницу в Pinterest
+LInkedin Link	Ссылка на LinkedIn
+Input link to your linkedin page	Введите ссылку на вашу страницу в LinkedIn
+RSS Link	Ссылка на RSS
+Input link to your rss feed	Введите ссылку на вашу RSS-ленту
+Adifier Ads	Adifier: объявления
+Display ads	Показать объявления
+Number	Количество
+Top Ads Only	Только топ-объявления
+Search among top ads only ( Ad Ids will have no effect )	Искать только среди топ-объявлений (ID объявлений не будут учитываться)
+Ad Ids	ID объявлений
+Input comma separated list of ad IDs you wish to show	Введите список ID объявлений через запятую, которые вы хотите показать
+Category Ids	ID категорий
+Location Ids	ID местоположений
+Order By	Сортировать по
+Popularity	Популярность
+Adifier Ad Categories	Adifier: категории объявлений
+Display ad categories	Показать категории объявлений
+Show Icon	Показывать значок
+Input comma separated list of ad category IDs you wish to show	Введите список ID категорий объявлений через запятую, которые вы хотите показать
+Show Count	Показывать количество
+Enable or disable display of count of ads	Включить или отключить показ количества объявлений
+Adifier Ad Locations	Adifier: местоположения объявлений
+Display ad locations	Показать местоположения объявлений
+Input comma separated list of ad location IDs you wish to show	Введите список ID местоположений объявлений через запятую, которые вы хотите показать
+Adifier Search Ads	Adifier: поиск объявлений
+Display search form for ads	Показать форму поиска объявлений
+Adifier Share Posts/Pages	Adifier: «Поделиться» для записей/страниц
+Display share on posts or pages	Показать кнопку «Поделиться» на записях или страницах
+Clear all	Очистить всё
+There are no ads to compare	Нет объявлений для сравнения
+Custom Fields	Произвольные поля
+Are you sure you want to delete this group?	Вы уверены, что хотите удалить эту группу?
+No groups currently exist.	Групп пока нет.
+Add new field group	Добавить новую группу полей
+Custom fields allows more precise search for your visitors	Произвольные поля позволяют точнее искать объявления посетителям
+Name for the custom fields group.	Название группы произвольных полей.
+Add Group	Добавить группу
+Edit Group	Изменить группу
+Error: non-existing roup ID.	Ошибка: несуществующий ID группы.
+Please, provide name for the group.	Укажите название группы.
+Please, select categories on whch to show this group of custom fields.	Выберите категории, в которых показывать эту группу произвольных полей.
+Group updated successfully	Группа успешно обновлена
+Back to Groups	К группам
+Slug	Ярлык (URL)
+Values	Значения
+Are you sure you want to delete this custom field?	Вы уверены, что хотите удалить это произвольное поле?
+Multiple	Несколько
+Single	Одиночное
+Range Slider	Ползунок диапазона
+Nested	Вложенное
+Color	Цвет
+Multiple Colors	Несколько цветов
+Range Inputs	Поля диапазона
+Checkboxes	Флажки
+Radio Buttons	Переключатели
+Text	Текст
+Configure terms	Настроить параметры
+No custom fields currently exist.	Произвольных полей пока нет.
+Save Order	Сохранить порядок
+Add new custom field	Добавить новое произвольное поле
+Default sort order	Порядок сортировки по умолчанию
+Term ID	ID термина
+Name (numeric)	Название (числовое)
+Determines the sort order of the terms on the frontend filter.	Определяет порядок сортировки параметров во внешнем фильтре.
+Field description	Описание поля
+Small description for the field ( max 255 chars ).	Краткое описание поля (не более 255 символов).
+Field Type	Тип поля
+Multiple Value	Несколько значений
+Single Value	Одно значение
+Single Value - Date	Одно значение — дата
+Single Value - Numeric ( range slider search )	Одно значение — число (поиск ползунком диапазона)
+Nested Values	Вложенные значения
+Single Value - Numeric ( range input search )	Одно значение — число (поиск по полям диапазона)
+Checkboxes - multiple values	Флажки — несколько значений
+Radio Buttons - single value	Переключатели — одно значение
+Select type of the field	Выберите тип поля
+Field Fixed	Фиксированное поле
+Field Hidden	Скрытое поле
+If field is hidden it will not be displayed in the search filters	Если поле скрыто, оно не будет отображаться в фильтрах поиска
+Field Is Mandatory	Обязательное поле
+If field is mandatory in order to save the ad	Если поле обязательно для сохранения объявления
+Add Fields	Добавить поля
+Back to Custom Fields	К произвольным полям
+Edit Custom Field	Изменить произвольное поле
+Error: non-existing custom field ID.	Ошибка: несуществующий ID произвольного поля.
+Field Description	Описание поля
+Multiple Values	Несколько значений
+Select type of the field.	Выберите тип поля.
+Please, provide custom field name.	Укажите название произвольного поля.
+Slug "%s" is too long (28 characters max). Shorten it, please.	Ярлык «%s» слишком длинный (не более 28 символов). Сократите его, пожалуйста.
+Slug "%s" is already in use. Change it, please.	Ярлык «%s» уже используется. Измените его, пожалуйста.
+Custom field updated successfully	Произвольное поле успешно обновлено

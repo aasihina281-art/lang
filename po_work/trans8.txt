@@ -1,0 +1,176 @@
+%s	%s
+The following plugin was activated successfully:	The following plugins were activated successfully:
+%s ad	%s объявление
+%s ads	%s объявления
+%s advert	%s объявление
+%d day	%d день
+%d days	%d дня
+Advert expires in %d day.	Срок действия объявления истекает через %d день.
+Advert expires in %d days.	Срок действия объявления истекает через %d дня.
+You have received a new review: <b>%s</b>. User has left this comment:	Вы получили новый отзыв: <b>%s</b>. Пользователь оставил такой комментарий:
+Create your account now and receive <b>%s</b> advert as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> объявление в качестве приветственного подарка
+Create your account now and receive <b>%s</b> ads as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> объявления в качестве приветственного подарка
+Create your account now and receive <b>%s</b> ads as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> объявлений в качестве приветственного подарка
+Purchase this package to top up your account with <b>%s</b> advert	Купите этот пакет, чтобы пополнить учётную запись на <b>%s</b> объявление
+Purchase this package to top up your account with <b>%s</b> ads	Купите этот пакет, чтобы пополнить учётную запись на <b>%s</b> объявления
+Purchase this package to top up your account with <b>%s</b> ads	Купите этот пакет, чтобы пополнить учётную запись на <b>%s</b> объявлений
+hour	час
+hours	часа
+day	день
+days	дня
+Create your account and get <b>%s</b> %s subscription as a welcome gift	Создайте учётную запись и получите подписку на <b>%s</b> %s в качестве приветственного подарка
+Create your account and get <b>%s</b> %s subscriptions as a welcome gift	Создайте учётную запись и получите подписку на <b>%s</b> %s в качестве приветственного подарка
+Purchase this package and extend your subscription by <b>%s</b> day	Купите этот пакет и продлите свою подписку на <b>%s</b> день
+Purchase this package and extend your subscription by <b>%s</b> days	Купите этот пакет и продлите свою подписку на <b>%s</b> дня
+Create your account now and get <b>%s</b> %s to submit <b>%s</b> advert as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> %s для подачи <b>%s</b> объявления в качестве приветственного подарка
+Create your account now and get <b>%s</b> %s to submit <b>%s</b> ads as a welcome gift	Создайте учётную запись сейчас и получите <b>%s</b> %s для подачи <b>%s</b> объявлений в качестве приветственного подарка
+Purchase this package and top up your account with <b>%s</b> day to submit <b>%s</b> adverts	Купите этот пакет и пополните учётную запись на <b>%s</b> день для подачи <b>%s</b> объявлений
+Purchase this package and top up your account with <b>%s</b> days to submit <b>%s</b> adverts	Купите этот пакет и пополните учётную запись на <b>%s</b> дня для подачи <b>%s</b> объявлений
+Sell (Expires in %s day)	Продажа (истечёт через %s дн.)
+Sell (Expires in %s days)	Продажа (истечёт через %s дн.)
+Auction (Expires in %s day)	Аукцион (истечёт через %s дн.)
+Auction (Expires in %s days)	Аукцион (истечёт через %s дн.)
+Buy (Expires in %s day)	Покупка (истечёт через %s дн.)
+Buy (Expires in %s days)	Покупка (истечёт через %s дн.)
+Exchange (Expires in %s day)	Обмен (истечёт через %s дн.)
+Exchange (Expires in %s days)	Обмен (истечёт через %s дн.)
+Gift (Expires in %s day)	Подарок (истечёт через %s дн.)
+Gift (Expires in %s days)	Подарок (истечёт через %s дн.)
+Rent (Expires in %s day)	Аренда (истечёт через %s дн.)
+Rent (Expires in %s days)	Аренда (истечёт через %s дн.)
+Job - Offer (Expires in %s day)	Работа - Предложение (истечёт через %s дн.)
+Job - Offer (Expires in %s days)	Работа - Предложение (истечёт через %s дн.)
+Job - Wanted (Expires in %s day)	Работа - Требуются (истечёт через %s дн.)
+Job - Wanted (Expires in %s days)	Работа - Требуются (истечёт через %s дн.)
+ad found	ads found
+Search &quot;%s&quot;	Результаты поиска «%s»
+Parent Category	Родительская категория
+New Category Name	Название новой категории
+Add New Category	Добавить категорию
+All Categories	Все категории
+Edit Category	Изменить категорию
+Update Category	Обновить категорию
+Add or remove categories	Добавить или удалить категории
+Choose from the most used categories	Выберите из наиболее используемых категорий
+No categories found	Категории не найдены
+Popular Categories	Популярные категории
+Search Categories	Поиск категорий
+Separate categories with commas	Разделяйте категории запятыми
+Name field is required	Поле названия обязательно
+Slug can not be longer than 28 chars	Ярлык (slug) не может быть длиннее 28 символов
+Category Saved	Категория сохранена
+Location Fields	Поля местоположения
+Select which location fields are mandatory	Выберите обязательные поля местоположения
+Enable/Disable All	Включить/отключить все
+Country is required	Страна обязательна
+State is required	Область обязательна
+City is required	Город обязателен
+Street is required	Улица обязательна
+Phone Number is required	Номер телефона обязатelen
+Hide Phone Field For Users	Скрывать поле телефона у пользователей
+Users can not hide phone number if this is enabled	Пользователи не смогут скрыть номер телефона, если это включено
+Enable Ads Expiration Email Notification	Включить уведомление об истечении объявления по эл. почте
+Send email notification to user about ad expiration	Отправлять пользователю письмо о том, что срок объявления истекает
+Ads Expiration Days	Дни до истечения объявлений
+Input number of days before ad expiration when to send the email	Укажите количество дней до истечения объявления, за которое отправляется письмо
+Expiration Text	Текст уведомления об истечении
+Input text for the email that will be sent to the user	Введите текст письма, которое будет отправлено пользователю
+Hello %s Your ad %s will expire in %s days. If you want to keep it active please renew it. Renewing an ad will charge %s credits.	Здравствуйте, %s! Срок вашего объявления %s истечёт через %s дн. Чтобы оно осталось активным, продлите его. Продление объявления обойдётся в %s размещений.
+Hello %s Your ad %s will expire in %s day. If you want to keep it active please renew it. Renewing an ad will charge %s credit.	Здравствуйте, %s! Срок вашего объявления %s истечёт через %s день. Чтобы оно осталось активным, продлите его. Продление объявления обойдётся в %s размещение.
+Bad Words Filter	Фильтр запрещённых слов
+Enable Bad Words Filter	Включить фильтр запрещённых слов
+Enable or disable bad words filter on submission form	Включить или отключить фильтр запрещённых слов в форме подачи
+Terms & Conditions Page ID	ID страницы условий использования
+Input page ID where terms & conditions are located	Введите ID страницы с условиями использования
+Show Ad Title In Listing Header	Показывать заголовок объявления в шапке списка
+Enable or disable display of ad title on listing header	Включить или отключить показ заголовка объявления в шапке списка
+Display Top Bar	Показывать верхнюю панель
+Enable or disable display of top bar on all pages	Включить или отключить показ верхней панели на всех страницах
+Top Bar Background Color	Цвет фона верхней панели
+Select background color for the top bar.	Выберите цвет фона верхней панели.
+Top Bar Font Color	Цвет текста верхней панели
+Select font color for the top bar.	Выберите цвет текста верхней панели.
+Map Marker Icon Size	Размер значка маркера на карте
+Set icon size in pixels for map marker icons	Укажите размер значков маркеров карты в пикселях
+Listing Style	Стиль списка
+Select style for author ad listing	Выберите стиль списка объявлений автора
+Grid View	Сетка
+List View	Список
+Listing Count	Количество в списке
+Number of ads per page on author ad listing	Количество объявлений на страницу в списке объявлений автора
+Profile Photo Width	Ширина фото профиля
+Set width for profile photo in pixels	Укажите ширину фото профиля в пикселях
+Profile Photo Height	Высота фото профиля
+Set height for profile photo in pixels	Укажите высоту фото профиля в пикселяx
+Profile Photo Crop	Обрезка фото профиля
+Whether to crop images to specified width and height or resize	Обрезать ли изображения до заданных ширины и высоты или масштабировать
+Profile Listing Style	Стиль списка в профиле
+Select style for profile ad listing	Выберите стиль списка объявлений в профиле
+Profile Listing Count	Количество в списке профиля
+Number of ads per page on profile ad listing	Количество объявлений на страницу в списке объявлений профиля
+Profile Reviews Count	Количество отзывов в профиле
+Number of reviews per page on profile reviews	Количество отзывов на страницу в профиле
+Enable Comments On Blog Posts	Включить комментарии к записям блога
+Enable or disable comments on blog posts	Включить или отключить комментарии к записям блога
+Enable Comments On Pages	Включить комментарии на страницах
+Enable or disable comments on pages	Включить или отключить комментарии на страницах
+Comment Form Info Text	Текст информации формы комментария
+Input info text above the comment form	Введите текст-информацию над формой комментария
+Comment Form Field Order	Порядок полей формы комментария
+Drag & drop to reorder	Перетаскивайте, чтобы изменить порядок
+Author Avatar Size	Размер аватара автора
+Avatar size in pixels	Размер аватара в пикселях
+Comment Form Title	Заголовок формы комментария
+Input title of the comment form	Введите заголовок формы комментария
+Cancel Comment Reply Button	Кнопка отмены ответа на комментарий
+Input cancel comment reply button label	Введите надпись кнопки отмены ответа на комментарий
+Comment Submit Button	Кнопка отправки комментария
+Input comment submit button label	Введите надпись кнопки отправки комментария
+Blog Grid Image Width	Ширина изображения в сетке блога
+Blog Grid Image Height	Высота изображения в сетке блога
+Blog List Image Width	Ширина изображения в списке блога
+Blog List Image Height	Высота изображения в списке блога
+Blog Single Image Width	Ширина изображения одной записи блога
+Blog Single Image Height	Высота изображения одной записи блога
+Blog Image Crop	Обрезка изображений блога
+Email Settings	Настройки эл. почты
+Email Logo Width	Ширина логотипа писем
+Logo width in pixels	Ширина логотипа в пикселях
+Email Logo Height	Высота логотипа писем
+Logo height in pixels	Высота логотипа в пикселях
+Enable Review Notifications	Включить уведомления об отзывах
+Enable or disable notifications about new reviews	Включить или отключить уведомления о новых отзывах
+Review Notification Email	Эл. почта для уведомлений об отзывах
+Input email where to send review notifications	Введите адрес эл. почты для отправки уведомлений об отзывах
+Enable Bidding Notifications	Включить уведомления о ставках
+Enable or disable notifications about bidding	Включить или отключить уведомления о ставках
+Bidding Notification Email	Эл. почта для уведомлений о ставках
+Input email where to send bidding notifications	Введите адрес эл. почты для отправки уведомлений о ставках
+Enable New Message Notifications	Включить уведомления о новых сообщениях
+Enable or disable notifications about new messages	Включить или отключить уведомления о новых сообщениях
+New Message Notification Email	Эл. почта для уведомлений о новых сообщениях
+Input email where to send new message notifications	Введите адрес эл. почты для отправки уведомлений о новых сообщениях
+Enable New Comment Notifications	Включить уведомления о новых комментариях
+Enable or disable notifications about new comments	Включить или отключить уведомления о новых комментариях
+New Comment Notification Email	Эл. почта для уведомлений о новых комментариях
+Input email where to send new comment notifications	Введите адрес эл. почты для отправки уведомлений о новых комментариях
+Enable Registration Notifications	Включить уведомления о регистрации
+Enable or disable notifications about registrations	Включить или отключить уведомления о регистрациях
+Registration Notification Email	Эл. почта для уведомлений о регистрации
+Input email where to send registration notifications	Введите адрес эл. почты для отправки уведомлений о регистрации
+Enable Report Notifications	Включить уведомления о жалобах
+Enable or disable notifications about reports	Включить или отключить уведомления о жалобах
+Report Notification Email	Эл. почта для уведомлений о жалобах
+Input email where to send report notifications	Введите адрес эл. почты для отправки уведомлений о жалобах
+Enable Expiration Notifications	Включить уведомления об истечении
+Enable or disable notifications about expiration	Включить или отключить уведомления об истечении срока
+Expiration Notification Email	Эл. почта для уведомлений об истечении
+Input email where to send expiration notifications	Введите адрес эл. почты для отправки уведомлений об истечении
+Enable Approval Notifications	Включить уведомления об одобрении
+Enable or disable notifications about approvals	Включить или отключить уведомления об одобрении
+Approval Notification Email	Эл. почта для уведомлений об одобрении
+Input email where to send approval notifications	Введите адрес эл. почты для отправки уведомлений об одобрении
+Enable Decline Notifications	Включить уведомления об отклонении
+Enable or disable notifications about declines	Включить или отключить уведомления об отклонении
+Decline Notification Email	Эл. почта для уведомлений об отклонении
+Input email where to send decline notifications	Введите адрес эл. почты для отправки уведомлений об отклонении

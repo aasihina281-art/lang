@@ -1,0 +1,296 @@
+Ad Details	Детали объявления
+Adifier recommends that you install WP All Import In order to use import functionality	Adifier рекомендует установить WP All Import, чтобы использовать функцию импорта
+Adifier - missing ad type, skipping this ad	Adifier — отсутствует тип объявления, пропуск этого объявления
+Ad Type	Тип объявления
+Sell (For mapping value 1)	Продажа (для значения сопоставления 1)
+Auction (For mapping value 2)	Аукцион (для значения сопоставления 2)
+Buy (For mapping value 3)	Покупка (для значения сопоставления 3)
+Exchange (For mapping value 4)	Обмен (для значения сопоставления 4)
+Gift (For mapping value 5)	Подарок (для значения сопоставления 5)
+Rent (For mapping value 6)	Аренда (для значения сопоставления 6)
+Job - Offer (For mapping value 7)	Работа - Предложение (для значения сопоставления 7)
+Job - Wanted (For mapping value 8)	Работа - Требуются (для значения сопоставления 8)
+Ad Currency	Валюта объявления
+Videos	Видео
+For multiple values in multiple tags divide with pipe "|" otherwise use delimiter	Для нескольких значений в нескольких тегах используйте разделитель «|», иначе используйте разделитель
+Videos Delimiter	Разделитель видео
+If your file contains single videos tag input delimiter char.	Если ваш файл содержит один тег с видео, укажите символ-разделитель.
+Price	Цена
+Sale Price	Цена со скидкой
+Start Price	Начальная цена
+If the type is Auction	Если тип — Аукцион
+Reserved Price	Резервная цена
+None	Нет
+Rent Period	Срок аренды
+Expire	Истекает
+If this is empty system will apply values from theme settings	Если оставить пустым, система применит значения из настроек темы
+Views	Просмотры
+Is Sold	Продано
+No (For mapping value 0)	Нет (для значения сопоставления 0)
+Yes (For mapping value 1)	Да (для значения сопоставления 1)
+Is Negotiable	Торг
+Condition	Состояние
+New (For mapping value 1)	Новое (для значения сопоставления 1)
+Manufacturer Refurbished (For mapping value 2)	Восстановленное производителем (для значения сопоставления 2)
+Used (For mapping value 3)	Б/у (для значения сопоставления 3)
+For Parts Or Not Working (For mapping value 4)	На запчасти или не работает (для значения сопоставления 4)
+Gmap Latitude Location	Местоположение: широта (Gmap)
+Gmap Longitude Location	Местоположение: долгота (Gmap)
+Gmap Country	Страна (Gmap)
+Gmap State	Область (Gmap)
+Gmap City	Город (Gmap)
+Gmap Street	Улица (Gmap)
+Phone	Телефон
+Ad Images	Изображения объявления
+Subscribe To Newsletter	Подписаться на рассылку
+and receive new ads in inbox	и получайте новые объявления на почту
+Input your email address	Введите свой адрес эл. почты
+Subscribe	Подписаться
+Share This	Поделиться
+Close	Закрыть
+Report Ad	Пожаловаться
+Reason *	Причина *
+Write as much details as you can	Опишите проблему как можно подробнее
+Report	Отправить жалобу
+Contact Ad Owner	Написать владельцу
+Message *	Сообщение *
+Write your message to the ad owner	Напишите сообщение владельцу объявления
+Send	Отправить
+Contact Buyer	Написать покупателю
+Write your message to the buyer	Напишите сообщение покупателю
+Write Review	Написать отзыв
+Review *	Отзыв *
+Very Bad	Очень плохо
+Bad	Плохо
+Good	Хорошо
+Very Good	Очень хорошо
+Excellent	Отлично
+Your Review *	Ваш отзыв *
+Write about your experience with the ad owner and product/service (This can not be changed)	Расскажите о своём опыте общения с владельцем объявления и о товаре/услуге (это нельзя изменить)
+Purchase Promotions For Your Ad	Купить продвижение для объявления
+No promotions selected	Продвижение не выбрано
+Purchase	Купить
+Select Payment - amount:	Выбор способа оплаты — сумма:
+Login	Вход
+Username / Email *	Имя пользователя / Эл. почта *
+Password *	Пароль *
+View Password	Показать пароль
+Forgotten your password?	Забыли пароль?
+OR	ИЛИ
+Don't have an account? Create one here.	Нет учётной записи? Создайте её здесь.
+Register	Регистрация
+Username *	Имя пользователя *
+Your desired username	Желаемое имя пользователя
+Email *	Эл. почта *
+It will be verified	Она будет проверена
+Use a strong password	Используйте надёжный пароль
+Repeat Password *	Повторите пароль *
+To make sure that it is correct	Чтобы убедиться в правильности
+Resend verification?	Отправить письмо подтверждения повторно?
+Already have an account? Login here.	Уже есть учётная запись? Войдите здесь.
+Recover Password	Восстановление пароля
+Set Password	Задать пароль
+Your registered email	Ваша зарегистрированная эл. почта
+Recover	Восстановить
+Resend Verification	Повторная отправка подтверждения
+Resend	Отправить повторно
+Quick Search	Быстрый поиск
+Find ad (min. 4 chars)	Найти объявление (мин. 4 символа)
+Search for...	Искать...
+Compare	Сравнить
+I'm interested in...	Меня интересует...
+Keyword	Ключевое слово
+Category	Категория
+Ads	Объявления
+Ad	Объявление
+Orders	Заказы
+Order	Заказ
+Categories	Категории
+Locations	Местоположения
+Location	Местоположение
+All	Все
+Edit	Изменить
+View	Просмотр
+Update	Обновить
+Add New	Добавить
+New	Новое
+ Name	Название
+Parent	Родительский элемент
+:	:
+Search	Поиск
+Popular	Популярные
+Separate	Разделяйте
+ with commas	 через запятую
+Add or remove	Добавить или удалить
+Choose from the most used	Выберите из наиболее используемых
+No	Нет
+ found	 не найдено
+You have not gave consent	Вы не дали согласие
+Failed to subscribe, try later	Не удалось подписаться, попробуйте позже
+You have been subscribed	Вы подписаны
+API not set	API не настроен
+No subscription provider	Нет поставщика подписок
+Email is not valid	Недействительный адрес эл. почты
+Images	Изображения
+Video URLs	Ссылки на видео
+Sell	Продажа
+Auction	Аукцион
+Buy	Покупка
+Exchange	Обмен
+Gift	Подарок
+Rent	Аренда
+Job - Offer	Работа - Предложение
+Job - Wanted	Работа - Требуются
+Price / Salary - No thousands separator and decimal must be . ( dot )	Цена / Зарплата — без разделителя тысяч, десятичный разделитель должен быть . (точка)
+Leave empty to display "Call for price" / "Call for salary"	Оставьте пустым, чтобы отображалось «Цена по договорённости» / «Зарплата по договорённости»
+Start Price / Max Salary - No thousands separator and decimal must be . ( dot )	Начальная цена / Максимальная зарплата — без разделителя тысяч, десятичный разделитель должен быть . (точка)
+Start price if ad is an auction or Max Salary if type is Job - Wanted	Начальная цена, если объявление — аукцион, или максимальная зарплата, если тип — Работа - Требуются
+Sale Price - No thousands separator and decimal must be . ( dot )	Цена со скидкой — без разделителя тысяч, десятичный разделитель должен быть . (точка)
+Reserved Price ( For Auction Type ) - No thousands separator and decimal must be . ( dot )	Резервная цена (для типа «Аукцион») — без разделителя тысяч, десятичный разделитель должен быть . (точка)
+Expires	Истекает
+This is for rent type only	Только для типа «Аренда»
+Yes	Да
+-Select-	-Выбрать-
+Manufacturer Refurbished	Восстановленное производителем
+Used	Б/у
+For Parts Or Not Working	На запчасти или не работает
+Informed user about expiration	Пользователь уведомлён об истечении срока
+It is changed by script change it here to No only if your mail server did not sent an email so you want to try again	Изменяется скриптом. Установите здесь значение «Нет», только если почтовый сервер не отправил письмо и вы хотите повторить попытку
+Currency	Валюта
+Details	Детали
+Is Bump Up	Поднятие в списке
+Highlight Until	Выделение до
+Is Top Ads Until	Топ-объявление до
+Urgent Until	Срочное до
+On Home Map	На карте главной
+Promotions	Продвижение
+Contact information	Контактная информация
+ - Reported by	 - Жалоба от
+Reason	Причина
+Ad Report	Жалоба на объявление
+Payment Type	Тип оплаты
+Transaction Id	ID транзакции
+Paid	Оплачено
+Order Details	Детали заказа
+Canceled	Отменён
+included	включено
+Bump Up Ad	Поднятие в списке
+Move ad to front (This will update creation date while maintaining expiration date). Decimal separator is . (dot) no thousands separator. Price can not be 0.	Переместить объявление в начало (дата создания обновится, срок действия сохранится). Десятичный разделитель — . (точка), без разделителя тысяч. Цена не может быть 0.
+Creation date will be changed to current date while maintaining expiry date resulting in moving ad to first place again. This can be applied only once per ad.	Дата создания будет изменена на текущую, срок действия сохранится, и объявление снова переместится на первое место. Можно применить только один раз для каждого объявления.
+Highlight Ad	Выделение объявления
+Days	Дней
+Highlight ad in the listing. Decimal separator is . (dot) no thousands separator. Price can not be 0.	Выделение объявления в списке. Десятичный разделитель — . (точка), без разделителя тысяч. Цена не может быть 0.
+Make your ad stand out with different colors.	Выделите своё объявление разными цветами.
+Top Ad	Топ-объявление
+Display ad in two positions - top of the listing and its current position. Decimal separator is . (dot) no thousands separator. Price can not be 0.	Показ объявления в двух местах — в начале списка и на его текущей позиции. Десятичный разделитель — . (точка), без разделителя тысяч. Цена не может быть 0.
+Push your ad to top of the listing while maintaining it's current position. There can be multiple top ads and display of them is random so all receive same exposure.	Ваше объявление попадёт в начало списка, сохранив текущую позицию. Топ-объявлений может быть несколько, они показываются в случайном порядке, поэтому все получают одинаковый охват.
+Urgent Ad	Срочное объявление
+Display ribbon with "URGENT" label on ad - users can also filter the ads by this data. Decimal separator is . (dot) no thousands separator. Price can not be 0.	Показ ленты с надписью «СРОЧНО» на объявлении — пользователи также смогут фильтровать объявления по этому признаку. Десятичный разделитель — . (точка), без разделителя тысяч. Цена не может быть 0.
+This promotion will add "URGENT" ribbon on your ad.	Это продвижение добавит ленту «СРОЧНО» на ваше объявление.
+Home Map Ad	Объявление на карте главной
+Display ad on home page map. Decimal separator is . (dot) no thousands separator. Price can not be 0.	Показ объявления на карте главной страницы. Десятичный разделитель — . (точка), без разделителя тысяч. Цена не может быть 0.
+This promotion your ad will be visible on the map on home page.	С этим продвижением ваше объявление будет видно на карте главной страницы.
+ (Acceptable formats: %s or %s)	 (допустимые форматы: %s или %s)
+ (Acceptable format: %s )	 (допустимый формат: %s)
+Captcha is not correct	Капча введена неверно
+You have not given consent.	Вы не дали согласие.
+All fields are required.	Все поля обязательны для заполнения.
+E-mail address is not valid.	Недействительный адрес эл. почты.
+Field contains bad words.	Поле содержит запрещённые слова.
+Name:	Имя:
+Email:	Эл. почта:
+Message:	Сообщение:
+Your message was successfully submitted.	Ваше сообщение успешно отправлено.
+Unexpected error occurred while attempting to send e-mail.	При попытке отправить эл. письмо произошла непредвиденная ошибка.
+Updates	Обновления
+Pending	На рассмотрении
+Expired	Истекло
+No results found.	Результаты не найдены.
+At least 4 chars are required.	Требуется не менее 4 символов.
+I agree to %s	Я соглашаюсь с %s
+terms & conditions	условиями использования
+Home	Главная
+Blog	Блог
+404	404
+Search by tag:	Поиск по метке:
+Profile of	Профиль
+Posts by	Записи автора
+Archive for:	Архив по:
+Search results for:	Результаты поиска по:
+Start typing...	Начните вводить...
+Share on	Поделиться:
+Log in to Reply	Войдите, чтобы ответить
+- Select -	- Выбрать -
+Show Less	Свернуть
+Show More	Показать ещё
+Bid History	История ставок
+See Bidding History	История ставок
+Conversations	Переписки
+Select bulk action	Выберите групповое действие
+Bulk Actions	Групповые действия
+Delete	Удалить
+Search Conversations:	Поиск переписок:
+Filter by ad	Фильтр по объявлению
+Search	Поиск
+Select All	Выбрать все
+Users	Пользователи
+No conversations found.	Переписки не найдены.
+Conversations removed	Переписки удалены
+Messages removed	Сообщения удалены
+Messages	Сообщения
+From	От
+Message	Сообщение
+Date	Дата
+No messages found.	Сообщения не найдены.
+User Details	Данные пользователя
+User Status	Статус пользователя
+Inactive	Неактивен
+Active	Активен
+Hide phone?	Скрыть телефон?
+Tax ID	ИНН
+Account Type	Тип аккаунта
+Individual	Физическое лицо
+Company	Юридическое лицо
+Facebook	Facebook
+X	X
+YouTube	YouTube
+LinkedIn	LinkedIn
+Instagram	Instagram
+Website	Сайт
+Packages	Пакеты
+Subscription	Подписка
+Unlimited Submit	Безлимитная подача
+Location *	Местоположение *
+Select location	Выберите местоположение
+Country	Страна
+State	Область
+City	Город
+Street	Улица
+Avatar	Аватар
+Change Avatar	Изменить аватар
+Your account has been disabled by administration of the site. If you would like to raise a dispute reply to this mail	Ваша учётная запись отключена администрацией сайта. Если вы хотите оспорить это решение, ответьте на это письмо
+Your account has been enabled by administration of the site	Ваша учётная запись включена администрацией сайта
+Account Status Change	Изменение статуса учётной записи
+Ads Posted	Размещённые объявления
+Reviews	Отзывы
+Reviews removed	Отзывы удалены
+Review	Отзыв
+Author response:	Ответ автора:
+No reviews found.	Отзывы не найдены.
+Add This To Compare	Добавить к сравнению
+Urgent	Срочное
+Featured	Рекомендуемое
+Negotiable	Торг
+Select	Выбрать
+Remove	Убрать
+Category Image	Изображение категории
+Select representative image of category	Выберите изображение, представляющее категорию
+Category Marker	Маркер категории
+Select representative marker of category	Выберите маркер, представляющий категорию
+Category Icon	Значок категории
+Select representative icon of category	Выберите значок, представляющий категорию
+Image	Изображение
+Marker	Маркер
+Icon	Значок
+ID	ID
+Free	Бесплатно

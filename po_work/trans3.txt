@@ -1,0 +1,187 @@
+New Messages Waiting	Новые сообщения ожидают
+Filter by advert / user...	Фильтр по объявлению / пользователю...
+Check All	Выбрать все
+Delete Selected	Удалить выбранные
+Click to see conversation list	Нажмите, чтобы увидеть список переписок
+Select conversation from the list	Выберите переписку из списка
+Type a message here	Введите сообщение здесь
+Email is invalid	Недействительный адрес эл. почты
+First name is required	Имя обязательно
+Last name is required	Фамилия обязательна
+Phone is required	Телефон обязателен
+Tax ID is required	ИНН обязателен
+Account type is required	Тип аккаунта обязателен
+Location is required	Местоположение обязательно
+Location from dropdown is required	Местоположение из выпадающего списка обязательно
+here	здесь
+Email Verification	Подтверждение эл. почты
+Verification email is sent to your new email address	Письмо подтверждения отправлено на ваш новый адрес эл. почты
+Your profile is updated	Ваш профиль обновлён
+New password is empty	Новый пароль пуст
+New password repeat is empty	Повтор нового пароля пуст
+Old password is empty	Старый пароль пуст
+New password and password repeat do not match	Новый пароль и его повтор не совпадают
+Password must be at least %s characters	Пароль должен содержать не менее %s символов
+Password is weak	Пароль слишком простой
+Old password does not match	Старый пароль не совпадает
+Password changed successfully	Пароль успешно изменён
+Online	Онлайн
+Offline	Офлайн
+No ad assigned	Объявление не назначено
+You are not logged in	Вы не вошли в систему
+Favorite	В избранное
+You have tried to many times. Try again in %s	Вы слишком много раз попробовали. Повторите через %s
+Fields marked with * are required.	Поля, отмеченные звёздочкой (*), обязательны для заполнения.
+You are logged in, wait a second.	Вы уже вошли в систему, подождите немного.
+Credentials are invalid.	Неверные учётные данные.
+Account is not activated yet, check your mail inbox.	Учётная запись ещё не активирована, проверьте почту.
+Account Registration	Регистрация учётной записи
+You must accept terms & conditions.	Вы должны принять условия использования.
+Username can not have empty spaces.	Имя пользователя не может содержать пробелы.
+Sorry, that email address is not allowed!	К сожалению, этот адрес эл. почты запрещён!
+Passwords do not match.	Пароли не совпадают.
+Activation email is resent. To resend activation email submit form again.	Письмо активации отправлено повторно. Чтобы отправить его ещё раз, снова отправьте форму.
+Account is activated	Учётная запись активирована
+Email is already registered.	Этот адрес эл. почты уже зарегистрирован.
+Username is already registered.	Это имя пользователя уже зарегистрировано.
+Could not create account, try again.	Не удалось создать учётную запись, попробуйте снова.
+E-mail address is not registered.	Адрес эл. почты не зарегистрирован.
+Activation email is resent.	Письмо активации отправлено повторно.
+Account is already activated	Учётная запись уже активирована
+Thank you for confirming your mail	Спасибо за подтверждение почты
+Password Recovery	Восстановление пароля
+Check your email for further instructions.	Проверьте почту — мы отправили дальнейшие инструкции.
+Email is not registered.	Адрес эл. почты не зарегистрирован.
+Hash does not match	Хеш не совпадает
+Password changed successfully.	Пароль успешно изменён.
+Hash does not match.	Хеш не совпадает.
+Could not update password, try again.	Не удалось обновить пароль, попробуйте снова.
+Name is required	Имя обязательно
+Message is required	Сообщение обязательно
+Form contains bad words	Форма содержит запрещённые слова
+This email is registered, login to send message	Этот адрес эл. почты зарегистрирован, войдите, чтобы отправить сообщение
+Question about:	Вопрос о:
+You can reply directly to this email to respond to	Вы можете ответить на это письмо напрямую, чтобы ответить
+New Message	Новое сообщение
+Author did not register an email address	Автор не зарегистрировал адрес эл. почты
+Click to reveal phone number	Нажмите, чтобы показать номер телефона
+Account Details	Данные аккаунта
+Select new avatar	Выбрать новый аватар
+First Name *	Имя *
+First Name	Имя
+Or your company name	Или название вашей компании
+Last Name *	Фамилия *
+Last Name	Фамилия
+Phone *	Телефон *
+It is revealed on click so it is safe from spam	Он показывается по нажатию, поэтому защищён от спама
+Tax ID *	ИНН *
+Your Tax ID for the invoice	Ваш ИНН для счёта
+Account Type *	Тип аккаунта *
+Once saved this field can not be changed	После сохранения это поле нельзя изменить
+Link to your site	Ссылка на ваш сайт
+Description	Описание
+Write something about yourself	Расскажите что-нибудь о себе
+Populated on Google place select	Заполняется при выборе места на Google Картах
+Update Account	Обновить аккаунт
+Change Password	Изменить пароль
+Old Password *	Старый пароль *
+Your current password	Ваш текущий пароль
+New Password *	Новый пароль *
+Your desired new password	Желаемый новый пароль
+Confirm New Password *	Подтвердите новый пароль *
+Location:	Местоположение:
+Joined:	Присоединился:
+About Us	О нас
+Get Directions	Построить маршрут
+Our Ads	Наши объявления
+Our Recommendations	Наши рекомендации
+As Seller	Как продавец
+As Buyer	Как покупатель
+By	Автор
+Leave A Review	Оставить отзыв
+New Review	Новый отзыв
+Review saved.	Отзыв сохранён.
+Could not write to database.	Не удалось записать в базу данных.
+Invalid conversation.	Недопустимая переписка.
+Form contains bad words.	Форма содержит запрещённые слова.
+Could not write to database	Не удалось записать в базу данных
+Invalid review ID	Недопустимый ID отзыва
+All fields are required	Все поля обязательны для заполнения
+Your Reviews	Ваши отзывы
+Response *	Ответ *
+Respond to this review (This can not be changed)	Ответьте на этот отзыв (его нельзя будет изменить)
+No reviews so far	Пока нет отзывов
+View Profile	Просмотр профиля
+Settings	Настройки
+Logout	Выход
+main	главная
+Dashboard	Панель управления
+ads	объявления
+Your Ads	Ваши объявления
+feedback	отзывы
+transactions	транзакции
+Invoices	Счета
+account	аккаунт
+Are you sure that you want to delete your account and everything associated with it?	Вы уверены, что хотите удалить свою учётную запись и всё, что с ней связано?
+Delete Account	Удалить аккаунт
+Call for price	Цена по договорённости
+Bid	Ставка
+Bids	Ставки
+Call for rent	Цена аренды по договорённости
+Call for salary	Зарплата по договорённости
+Page %s	Страница %s
+Export / Import Custom Data	Экспорт / импорт произвольных данных
+Import / Export Custom Data From Theme	Импорт / экспорт произвольных данных из темы
+Export	Экспорт
+Click button below to get JSON export of your created fields which you can later import back using form below	Нажмите кнопку ниже, чтобы получить JSON-экспорт созданных вами полей, который позже можно импортировать обратно с помощью формы ниже
+Import	Импорт
+Which table to import to	В какую таблицу импортировать
+Table content	Содержимое таблицы
+Paste JSON of your custom data and click on import button	Вставьте JSON ваших произвольных данных и нажмите кнопку импорта
+Save content from textarea below in txt file and name it	Сохраните содержимое текстового поля ниже в файл txt и назовите его
+Import process finished	Процесс импорта завершён
+Dismiss this notice.	Закрыть это уведомление.
+Refund	Возврат средств
+Products	Товары
+Buyer Details	Данные покупателя
+Manual money return is required. Action below will only remove products from the ad/user	Требуется ручной возврат средств. Действие ниже только удалит товары из объявления/пользователя
+Refund This Order?	Вернуть средства за этот заказ?
+Quantity	Количество
+Amount	Сумма
+Package:	Пакет:
+Subscription:	Подписка:
+Product:	Товар:
+Total	Итого
+Total Amount	Итоговая сумма
+Tax ID:	ИНН:
+Refunded	Возвращено
+Promotion:	Продвижение:
+Invoice -	Счёт -
+(Waiting For Payment)	(Ожидает оплаты)
+Your order is completed	Ваш заказ выполнен
+We could not create your order, contact administration	Не удалось создать ваш заказ, обратитесь к администрации
+You need to verify your phone number before proceeding	Перед продолжением нужно подтвердить номер телефона
+Country Code *	Код страны *
+For example: +1	Например: +1
+Phone Number *	Номер телефона *
+Without leading zero	Без начального нуля
+Verification Mode *	Способ подтверждения *
+SMS Code	SMS-код
+Voice Call	Голосовой звонок
+Send Code	Отправить код
+Country code is missing.	Не указан код страны.
+Phone number is missing.	Не указан номер телефона.
+Phone number is already registered.	Этот номер телефона уже зарегистрирован.
+Could not send verification code.	Не удалось отправить код подтверждения.
+Input your verification code	Введите ваш код подтверждения
+Verification code has been sent	Код подтверждения отправлен
+You will receive a phone call shortly	Скоро вам поступит звонок
+Verification Code *	Код подтверждения *
+Input your received verification code	Введите полученный код подтверждения
+Verify	Подтвердить
+Send Again	Отправить снова
+Verification code is missing.	Не введён код подтверждения.
+Phone number code is missing.	Не указан код номера телефона.
+Phone number is successfully verified, page will reload now.	Номер телефона успешно подтверждён, страница сейчас перезагрузится.
+Phone number verification failed.	Не удалось подтвердить номер телефона.
+Google	Google

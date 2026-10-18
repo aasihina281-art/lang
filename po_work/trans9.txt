@@ -1,0 +1,56 @@
+None (For mapping value 0)Нет (для значения сопоставления 0)
+AllВсе
+EditИзменить
+ViewПросмотр
+UpdateОбновить
+Add NewДобавить
+NewНовое
+ParentРодительский элемент
+SearchПоиск
+PopularПопулярные
+SeparateРазделяйте
+Add or removeДобавить или удалить
+Choose from the most usedВыберите из наиболее используемых
+NoНет
+ - Reported by - Жалоба от
+Name:Имя:
+Email:Эл. почта:
+Message:Сообщение:
+I agree to %sЯ соглашаюсь с %s
+Search by tag:Поиск по метке:
+Search results for:Результаты поиска по:
+Share onПоделиться:
+There is a new ad update waiting for your reviewНовое обновление объявления ожидает вашего рассмотрения
+There is a new ad waiting for your reviewНовое объявление ожидает вашего рассмотрения
+[Ad Reported] -[Жалоба на объявление] -
+Question about:Вопрос о:
+You can reply directly to this email to respond toВы можете ответить на это письмо напрямую, чтобы ответить
+https://www.facebook.com/...https://www.facebook.com/...
+https://twitter.com/...https://twitter.com/...
+https://www.youtube.com/channel/...https://www.youtube.com/channel/...
+https://linkedin.com/in/...https://linkedin.com/in/...
+https://www.instagram.com/...https://www.instagram.com/...
+ByАвтор
+Package:Пакет:
+Subscription:Подписка:
+Product:Товар:
+TotalИтого
+Tax ID:ИНН:
+Promotion:Продвижение:
+Invoice -Счёт -
+Parent %s:Родительская категория:
+Transaction was not successful: Last gateway response was:Транзакция не выполнена успешно. Последний ответ платёжного шлюза:
+ShowingПоказано
+In:В:
+Select which package /subscription to showВыберите пакет / подписку для отображения
+Min bid:Мин. ставка:
+Custom SidebarПроизвольный сайдбар
+Install %2$sУстановить %2$s
+Update %2$sОбновить %2$s
+Activate %2$sАктивировать %2$s
+Updating Plugin %1$s (%2$d/%3$d)Обновление плагина %1$s (%2$d/%3$d)
+An error occurred while installing %1$s: <strong>%2$s</strong>.При установке %1$s произошла ошибка: <strong>%2$s</strong>.
+The installation of %1$s failed.Не удалось установить %1$s.
+%1$s installed and activated successfully.%1$s успешно установлен и активирован.
+Installing and Activating Plugin %1$s (%2$d/%3$d)Установка и активация плагина %1$s (%2$d/%3$d)
+Installing Plugin %1$s (%2$d/%3$d)Установка плагина %1$s (%2$d/%3$d)
